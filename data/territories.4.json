@@ -241,20 +241,6 @@
 		]
 	},
 	{
-		"title": "Saints",
-		"notes": "",
-		"wiki_link": "",
-		"order": 0,
-		"strokecolor": "353535",
-		"fillcolor": "353535",
-		"latlngarray": [
-			{"lat": -74.439, "lng": -0.352},
-			{"lat": -74.439, "lng": 0.538},
-			{"lat": -74.550, "lng": 0.549},
-			{"lat": -74.559, "lng": -0.275}
-		]
-	},
-	{
 		"title": "Kaneshiro Clan Yea Yeah",
 		"notes": "Mosley's Parts House",
 		"wiki_link": "https://youtube.com",
