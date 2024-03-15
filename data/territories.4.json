@@ -14,6 +14,21 @@
 		]
 	},
 	{
+		"type": "Territories Test",
+		"title": "test",
+		"notes": "test",
+		"wiki_link": "https://youtube.com",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -72.525, "lng": 0.532},
+			{"lat": -73.337, "lng": -1.578},
+			{"lat": -72.392, "lng": -5.093},
+			{"lat": -71.688, "lng": -1.490}
+		]
+	},
+	{
 		"title": "Larry and Co",
 		"notes": "Larry, Mama, Oscar, etc",
 		"wiki_link": "",
