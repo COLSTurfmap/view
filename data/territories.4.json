@@ -28,5 +28,20 @@
 			{"lat": -59.906, "lng": 12.978},
 			{"lat": -59.657, "lng": 13.736}
 		]
+	},
+	{
+		"type": "Territories",
+		"title": "Police Station",
+		"notes": "Police Station",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -66.836, "lng": -0.592},
+			{"lat": -66.793, "lng": -2.965},
+			{"lat": -67.593, "lng": -3.185},
+			{"lat": -67.484, "lng": -0.504}
+		]
 	}
 ]
