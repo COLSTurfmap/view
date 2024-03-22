@@ -1,34 +1,104 @@
 [
 	{
-		"title": "Kaneshiro Clan Yea Yeah",
-		"notes": "Mosley's Parts House",
-		"wiki_link": "https://youtube.com",
-		"order": 0,
-		"strokecolor": "FF5050",
-		"fillcolor": "FF5050",
-		"latlngarray": [
-			{"lat": -74.747, "lng": -0.658},
-			{"lat": -74.925, "lng": 0.144},
-			{"lat": -74.971, "lng": -0.065},
-			{"lat": -75.022, "lng": -0.427},
-			{"lat": -74.943, "lng": -0.614},
-			{"lat": -74.860, "lng": -1.010}
-		]
-	},
-	{
-		"title": "Julian",
+		"type": "Territories",
+		"title": "E/S Bloodstone Villains",
 		"notes": "",
 		"wiki_link": "",
 		"order": 0,
-		"strokecolor": "EC61FF",
-		"fillcolor": "EC61FF",
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
 		"latlngarray": [
-			{"lat": -60.048, "lng": 14.219},
-			{"lat": -60.305, "lng": 13.483},
-			{"lat": -59.906, "lng": 12.978},
-			{"lat": -59.657, "lng": 13.736}
+			{"lat": -75.692, "lng": -4.628},
+			{"lat": -76.607, "lng": -7.990},
+			{"lat": -77.018, "lng": -6.012},
+			{"lat": -76.199, "lng": -2.562}
 		]
 	},
+	{
+		"type": "Territories",
+		"title": "Mara Salvatrucha 13/MS-13",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "EAF211",
+		"fillcolor": "EAF211",
+		"latlngarray": [
+			{"lat": -74.557, "lng": -9.918},
+			{"lat": -75.500, "lng": -13.398},
+			{"lat": -76.035, "lng": -10.607},
+			{"lat": -75.093, "lng": -7.355}
+		]
+	},
+	{
+		"type": "Territories",
+		"title": "Florencia 13",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "000000",
+		"fillcolor": "FF8000",
+		"latlngarray": [
+			{"lat": -72.333, "lng": -4.947},
+			{"lat": -73.186, "lng": -1.651},
+			{"lat": -72.703, "lng": -0.685},
+			{"lat": -72.453, "lng": 0.084},
+			{"lat": -72.071, "lng": -0.157},
+			{"lat": -71.716, "lng": 0.084},
+			{"lat": -71.709, "lng": -1.344}
+		]
+	},
+    {
+		"type": "Territories",
+		"title": "Avalon Garden Housing Projects",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": -74.383, "lng": -18.627},
+			{"lat": -75.507, "lng": -13.815},
+			{"lat": -75.128, "lng": -12.321},
+			{"lat": -74.127, "lng": -16.495}
+		]
+	},
+    {
+		"type": "Territories",
+		"title": "65 Menlo Gangster Crips",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "99CCFF",
+		"fillcolor": "99CCFF",
+		"latlngarray": [
+			{"lat": -74.156, "lng": -10.492},
+			{"lat": -74.963, "lng": -6.910},
+			{"lat": -74.276, "lng": -4.713},
+			{"lat": -73.558, "lng": -7.635}
+		]
+	},
+    {
+		"type": "Territories",
+		"title": "BLOCCGHANISTAN",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "004C99",
+		"fillcolor": "004C99",
+		"latlngarray": [
+			{"lat": -71.914, "lng": -19.833},
+			{"lat": -72.278, "lng": -18.317},
+			{"lat": -71.832, "lng": -16.998},
+			{"lat": -71.832, "lng": -14.252},
+			{"lat": -71.465, "lng": -13.021},
+			{"lat": -71.409, "lng": -14.493},
+			{"lat": -71.430, "lng": -16.262},
+			{"lat": -71.430, "lng": -17.581},
+			{"lat": -71.465, "lng": -18.778},
+			{"lat": -71.625, "lng": -19.338}
+		]
+	},
+
 	{
 		"type": "Territories",
 		"title": "Police Station",
