@@ -23,10 +23,19 @@
 		"strokecolor": "EAF211",
 		"fillcolor": "EAF211",
 		"latlngarray": [
-			{"lat": -74.557, "lng": -9.918},
-			{"lat": -75.500, "lng": -13.398},
-			{"lat": -76.035, "lng": -10.607},
-			{"lat": -75.093, "lng": -7.355}
+			{"lat": -74.763, "lng": -10.596},
+			{"lat": -74.976, "lng": -9.827},
+			{"lat": -75.191, "lng": -9.080},
+			{"lat": -75.314, "lng": -8.289},
+			{"lat": -75.611, "lng": -9.190},
+			{"lat": -75.726, "lng": -9.476},
+			{"lat": -75.661, "lng": -10.069},
+			{"lat": -75.584, "lng": -10.640},
+			{"lat": -75.502, "lng": -11.211},
+			{"lat": -75.425, "lng": -11.739},
+			{"lat": -75.341, "lng": -12.288},
+			{"lat": -75.089, "lng": -11.651},
+			{"lat": -74.890, "lng": -10.926}
 		]
 	},
 	{
@@ -77,25 +86,26 @@
 			{"lat": -73.558, "lng": -7.635}
 		]
 	},
-    {
+	{
 		"type": "Territories",
-		"title": "BLOCCGHANISTAN",
+		"title": "Welcome to the double M's",
 		"notes": "",
-		"wiki_link": "https://cityofls.xyz/index.php?threads/bloccghanistan.2534/unread",
+		"wiki_link": "https://cityofls.xyz/index.php?threads/welcome-to-the-double-ms.2336/",
 		"order": 0,
-		"strokecolor": "004C99",
-		"fillcolor": "004C99",
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
 		"latlngarray": [
-			{"lat": -71.914, "lng": -19.833},
-			{"lat": -72.278, "lng": -18.317},
-			{"lat": -71.832, "lng": -16.998},
-			{"lat": -71.832, "lng": -14.252},
-			{"lat": -71.465, "lng": -13.021},
-			{"lat": -71.409, "lng": -14.493},
-			{"lat": -71.430, "lng": -16.262},
-			{"lat": -71.430, "lng": -17.581},
-			{"lat": -71.465, "lng": -18.778},
-			{"lat": -71.625, "lng": -19.338}
+			{"lat": -60.852, "lng": 12.916},
+			{"lat": -60.257, "lng": 14.542},
+			{"lat": -59.630, "lng": 16.014},
+			{"lat": -59.138, "lng": 17.112},
+			{"lat": -58.923, "lng": 18.365},
+			{"lat": -59.048, "lng": 19.727},
+			{"lat": -60.916, "lng": 18.958},
+			{"lat": -61.001, "lng": 16.871},
+			{"lat": -61.097, "lng": 15.552},
+			{"lat": -61.171, "lng": 14.607},
+			{"lat": -61.001, "lng": 13.751}
 		]
 	},
 
