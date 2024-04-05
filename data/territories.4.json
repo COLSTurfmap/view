@@ -110,6 +110,47 @@
 	},
 
 	{
+        "type": "Territories",
+        "title": "S/S Rancho Varrio Grape St X3",
+        "notes": "",
+        "wiki_link": "https://cityofls.xyz/index.php?threads/s-s-rancho-varrio-grape-st-x3.2849/",
+        "order": 0,
+        "strokecolor": "6600CC",
+        "fillcolor": "6600CC",
+        "latlngarray": [
+            {"lat": -75.302, "lng": -6.847},
+            {"lat": -75.670, "lng": -5.001},
+            {"lat": -76.536, "lng": -8.099},
+            {"lat": -76.412, "lng": -8.912},
+            {"lat": -76.350, "lng": -10.033},
+            {"lat": -75.998, "lng": -9.264},
+            {"lat": -75.687, "lng": -8.143},
+            {"lat": -75.440, "lng": -7.374}
+        ]
+    },
+    {
+        "type": "Territories",
+        "title": "Original 7Pacc Gangster Crips",
+        "notes": "",
+        "wiki_link": "https://cityofls.xyz/index.php?threads/original-7pacc-gangster-crips.2237/",
+        "order": 0,
+        "strokecolor": "404040",
+        "fillcolor": "404040",
+        "latlngarray": [
+            {"lat": -74.565, "lng": -2.496},
+            {"lat": -74.264, "lng": -1.837},
+            {"lat": -73.957, "lng": -1.288},
+            {"lat": -73.712, "lng": -0.453},
+            {"lat": -74.066, "lng": 1.239},
+            {"lat": -74.388, "lng": 0.712},
+            {"lat": -74.559, "lng": 0.536},
+            {"lat": -74.809, "lng": 0.536},
+            {"lat": -74.975, "lng": 0.119},
+            {"lat": -75.037, "lng": -0.365}
+        ]
+    },
+
+	{
 		"type": "Territories",
 		"title": "Police Station",
 		"notes": "Police Station",
