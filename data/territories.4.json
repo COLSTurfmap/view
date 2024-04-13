@@ -72,63 +72,6 @@
 		]
 	},
     {
-		"type": "Territories",
-		"title": "65 Menlo Gangster Crips",
-		"notes": "",
-		"wiki_link": "https://cityofls.xyz/index.php?threads/65-menlo-gangster-crips.1303/unread",
-		"order": 0,
-		"strokecolor": "99CCFF",
-		"fillcolor": "99CCFF",
-		"latlngarray": [
-			{"lat": -74.156, "lng": -10.492},
-			{"lat": -74.963, "lng": -6.910},
-			{"lat": -74.276, "lng": -4.713},
-			{"lat": -73.558, "lng": -7.635}
-		]
-	},
-	{
-		"type": "Territories",
-		"title": "Welcome to the double M's",
-		"notes": "",
-		"wiki_link": "https://cityofls.xyz/index.php?threads/welcome-to-the-double-ms.2336/",
-		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
-		"latlngarray": [
-			{"lat": -60.852, "lng": 12.916},
-			{"lat": -60.257, "lng": 14.542},
-			{"lat": -59.630, "lng": 16.014},
-			{"lat": -59.138, "lng": 17.112},
-			{"lat": -58.923, "lng": 18.365},
-			{"lat": -59.048, "lng": 19.727},
-			{"lat": -60.916, "lng": 18.958},
-			{"lat": -61.001, "lng": 16.871},
-			{"lat": -61.097, "lng": 15.552},
-			{"lat": -61.171, "lng": 14.607},
-			{"lat": -61.001, "lng": 13.751}
-		]
-	},
-
-	{
-        "type": "Territories",
-        "title": "S/S Rancho Varrio Grape St X3",
-        "notes": "",
-        "wiki_link": "https://cityofls.xyz/index.php?threads/s-s-rancho-varrio-grape-st-x3.2849/",
-        "order": 0,
-        "strokecolor": "6600CC",
-        "fillcolor": "6600CC",
-        "latlngarray": [
-            {"lat": -75.302, "lng": -6.847},
-            {"lat": -75.670, "lng": -5.001},
-            {"lat": -76.536, "lng": -8.099},
-            {"lat": -76.412, "lng": -8.912},
-            {"lat": -76.350, "lng": -10.033},
-            {"lat": -75.998, "lng": -9.264},
-            {"lat": -75.687, "lng": -8.143},
-            {"lat": -75.440, "lng": -7.374}
-        ]
-    },
-    {
         "type": "Territories",
         "title": "Original 7Pacc Gangster Crips",
         "notes": "",
@@ -149,7 +92,21 @@
             {"lat": -75.037, "lng": -0.365}
         ]
     },
-
+	{
+        "type": "Territories",
+        "title": "107 selos",
+        "notes": "107 selos",
+        "wiki_link": "https://cityofls.xyz/index.php?threads/we-the-northside-selos.2988/",
+        "order": 0,
+        "strokecolor": "FF8000",
+        "fillcolor": "FF8000",
+        "latlngarray": [
+            {"lat": -53.653, "lng": -11.175},
+            {"lat": -54.504, "lng": -7.330},
+            {"lat": -56.495, "lng": -8.516},
+            {"lat": -55.661, "lng": -12.493}
+        ]
+    },
 	{
 		"type": "Territories",
 		"title": "Police Station",
