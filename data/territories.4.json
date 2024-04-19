@@ -108,6 +108,68 @@
         ]
     },
 	{
+        "type": "Territories",
+        "title": "Rollin 100s Neighborhood Crips",
+        "notes": "",
+        "wiki_link": "https://cityofls.xyz/index.php?threads/rollin-100s-neighborhood-crips.3171/",
+        "order": 0,
+        "strokecolor": "0066CC",
+        "fillcolor": "0066CC",
+        "latlngarray": [
+            {"lat": -73.994, "lng": -18.720},
+            {"lat": -73.738, "lng": -19.819},
+            {"lat": -73.143, "lng": -19.885},
+            {"lat": -72.625, "lng": -18.413},
+            {"lat": -73.149, "lng": -16.171}
+        ]
+    },
+	{
+        "type": "Territories",
+        "title": "Welcome to the Ave",
+        "notes": "",
+        "wiki_link": "https://cityofls.xyz/index.php?threads/welcome-to-the-ave.3191/",
+        "order": 0,
+        "strokecolor": "FF0000",
+        "fillcolor": "FF0000",
+        "latlngarray": [
+            {"lat": -68.409, "lng": -50.251},
+            {"lat": -69.320, "lng": -49.570},
+            {"lat": -69.977, "lng": -49.064},
+            {"lat": -70.201, "lng": -48.691},
+            {"lat": -70.357, "lng": -48.339},
+            {"lat": -70.350, "lng": -47.702},
+            {"lat": -70.320, "lng": -46.977},
+            {"lat": -70.224, "lng": -46.428},
+            {"lat": -70.045, "lng": -45.263},
+            {"lat": -69.141, "lng": -46.735},
+            {"lat": -68.658, "lng": -47.460},
+            {"lat": -68.140, "lng": -48.273}
+        ]
+    },
+	{
+        "type": "Territories",
+        "title": "West Side Longo's",
+        "notes": "",
+        "wiki_link": "https://cityofls.xyz/index.php?threads/west-side-longo-13.3232/",
+        "order": 0,
+        "strokecolor": "33FF33",
+        "fillcolor": "33FF33",
+        "latlngarray": [
+            {"lat": -72.015, "lng": -45.922},
+            {"lat": -71.485, "lng": -44.252},
+            {"lat": -71.147, "lng": -41.307},
+            {"lat": -71.569, "lng": -40.824},
+            {"lat": -71.817, "lng": -42.845},
+            {"lat": -72.204, "lng": -42.318},
+            {"lat": -72.008, "lng": -40.231},
+            {"lat": -72.329, "lng": -39.845},
+            {"lat": -73.023, "lng": -41.977},
+            {"lat": -72.920, "lng": -43.734},
+            {"lat": -72.735, "lng": -44.249},
+            {"lat": -72.333, "lng": -45.194}
+        ]
+    },
+	{
 		"type": "Territories",
 		"title": "Police Station",
 		"notes": "Police Station",
