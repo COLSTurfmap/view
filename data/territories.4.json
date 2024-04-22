@@ -56,17 +56,19 @@
     {
 		"type": "Territories",
 		"title": "W/S Byrd Gang",
-		"notes": "<edit this>",
+		"notes": "",
 		"wiki_link": "https://cityofls.xyz/index.php?threads/w-s-byrd-gang.1050/",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
 		"latlngarray": [
-			{"lat": -65.433, "lng": -36.475},
-			{"lat": -65.460, "lng": -33.641},
-			{"lat": -66.681, "lng": -33.641},
-			{"lat": -66.646, "lng": -35.684},
-			{"lat": -66.629, "lng": -36.607}
+			{"lat": -67.095, "lng": -37.249},
+			{"lat": -66.871, "lng": -35.755},
+			{"lat": -66.889, "lng": -33.887},
+			{"lat": -67.333, "lng": -33.975},
+			{"lat": -67.661, "lng": -34.326},
+			{"lat": -67.886, "lng": -35.161},
+			{"lat": -68.075, "lng": -35.908}
 		]
 	},
     {
