@@ -38,29 +38,11 @@
 			{"lat": -74.890, "lng": -10.926}
 		]
 	},
-	{
-		"type": "Territories",
-		"title": "Florencia 13",
-		"notes": "",
-		"wiki_link": "https://cityofls.xyz/index.php?threads/southside-florencia-trece.1661/unread",
-		"order": 0,
-		"strokecolor": "FF8000",
-		"fillcolor": "FF8000",
-		"latlngarray": [
-			{"lat": -72.333, "lng": -4.947},
-			{"lat": -73.186, "lng": -1.651},
-			{"lat": -72.703, "lng": -0.685},
-			{"lat": -72.453, "lng": 0.084},
-			{"lat": -72.071, "lng": -0.157},
-			{"lat": -71.716, "lng": 0.084},
-			{"lat": -71.709, "lng": -1.344}
-		]
-	},
     {
 		"type": "Territories",
-		"title": "Avalon Garden Housing Projects",
+		"title": "PJ Watts Crip",
 		"notes": "",
-		"wiki_link": "https://cityofls.xyz/index.php?threads/avalon-gardens-housing-projects.1050/unread",
+		"wiki_link": "https://cityofls.xyz/index.php?threads/pj-watts-crip.1661/",
 		"order": 0,
 		"strokecolor": "0080FF",
 		"fillcolor": "0080FF",
@@ -69,6 +51,22 @@
 			{"lat": -75.507, "lng": -13.815},
 			{"lat": -75.128, "lng": -12.321},
 			{"lat": -74.127, "lng": -16.495}
+		]
+	},
+    {
+		"type": "Territories",
+		"title": "W/S Byrd Gang",
+		"notes": "<edit this>",
+		"wiki_link": "https://cityofls.xyz/index.php?threads/w-s-byrd-gang.1050/",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -65.433, "lng": -36.475},
+			{"lat": -65.460, "lng": -33.641},
+			{"lat": -66.681, "lng": -33.641},
+			{"lat": -66.646, "lng": -35.684},
+			{"lat": -66.629, "lng": -36.607}
 		]
 	},
     {
