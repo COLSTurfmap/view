@@ -14,30 +14,6 @@
 			{"lat": -76.199, "lng": -2.562}
 		]
 	},
-	{
-		"type": "Territories",
-		"title": "Mara Salvatrucha 13/MS-13",
-		"notes": "",
-		"wiki_link": "https://cityofls.xyz/index.php?threads/ms-13.2304/unread",
-		"order": 0,
-		"strokecolor": "EAF211",
-		"fillcolor": "EAF211",
-		"latlngarray": [
-			{"lat": -74.763, "lng": -10.596},
-			{"lat": -74.976, "lng": -9.827},
-			{"lat": -75.191, "lng": -9.080},
-			{"lat": -75.314, "lng": -8.289},
-			{"lat": -75.611, "lng": -9.190},
-			{"lat": -75.726, "lng": -9.476},
-			{"lat": -75.661, "lng": -10.069},
-			{"lat": -75.584, "lng": -10.640},
-			{"lat": -75.502, "lng": -11.211},
-			{"lat": -75.425, "lng": -11.739},
-			{"lat": -75.341, "lng": -12.288},
-			{"lat": -75.089, "lng": -11.651},
-			{"lat": -74.890, "lng": -10.926}
-		]
-	},
     {
 		"type": "Territories",
 		"title": "PJ Watts Crip",
@@ -58,24 +34,6 @@
 			{"lat": -77.836, "lng": 0.183},
 			{"lat": -77.771, "lng": 1.150},
 			{"lat": -77.621, "lng": 2.029}
-		]
-	},
-    {
-		"type": "Territories",
-		"title": "W/S Byrd Gang",
-		"notes": "",
-		"wiki_link": "https://cityofls.xyz/index.php?threads/w-s-byrd-gang.1050/",
-		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
-		"latlngarray": [
-			{"lat": -67.095, "lng": -37.249},
-			{"lat": -66.871, "lng": -35.755},
-			{"lat": -66.889, "lng": -33.887},
-			{"lat": -67.333, "lng": -33.975},
-			{"lat": -67.661, "lng": -34.326},
-			{"lat": -67.886, "lng": -35.161},
-			{"lat": -68.075, "lng": -35.908}
 		]
 	},
     {
@@ -108,10 +66,10 @@
         "strokecolor": "FF8000",
         "fillcolor": "FF8000",
         "latlngarray": [
-            {"lat": -53.653, "lng": -11.175},
-            {"lat": -54.504, "lng": -7.330},
-            {"lat": -56.495, "lng": -8.516},
-            {"lat": -55.661, "lng": -12.493}
+			{"lat": -75.148, "lng": -6.101},
+			{"lat": -75.499, "lng": -4.256},
+			{"lat": -74.924, "lng": -1.850},
+			{"lat": -74.457, "lng": -3.970}
         ]
     },
 	{
@@ -132,7 +90,7 @@
     },
 	{
         "type": "Territories",
-        "title": "Welcome to the Ave",
+        "title": "W/S 32nd St. Hawaiian Boyz",
         "notes": "",
         "wiki_link": "https://cityofls.xyz/index.php?threads/welcome-to-the-ave.3191/",
         "order": 0,
@@ -176,6 +134,94 @@
             {"lat": -72.333, "lng": -45.194}
         ]
     },
+	{
+		"type": "Territories",
+		"title": "W/S Campanella Park Piru",
+		"notes": "",
+		"wiki_link": "https://cityofls.xyz/index.php?threads/w-s-campanella-park-piru.3144/",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -72.327, "lng": -4.883},
+			{"lat": -71.683, "lng": -1.345},
+			{"lat": -71.717, "lng": 0.061},
+			{"lat": -72.052, "lng": -0.093},
+			{"lat": -72.387, "lng": -0.027},
+			{"lat": -72.638, "lng": -0.730},
+			{"lat": -73.002, "lng": -1.214},
+			{"lat": -73.162, "lng": -1.587},
+			{"lat": -72.651, "lng": -3.653}
+		]
+	},
+	{
+		"type": "Territories",
+		"title": "Jungle Side Apes",
+		"notes": "",
+		"wiki_link": "https://cityofls.xyz/index.php?threads/junglesideapes.3301/",
+		"order": 0,
+		"strokecolor": "FF99FF",
+		"fillcolor": "FF99FF",
+		"latlngarray": [
+			{"lat": -72.500, "lng": -49.656},
+			{"lat": -72.200, "lng": -48.217},
+			{"lat": -72.671, "lng": -47.129},
+			{"lat": -72.950, "lng": -48.601}
+		]
+	},
+    {
+		"type": "Territories",
+		"title": "W/S Glove Gang",
+		"notes": "",
+		"wiki_link": "https://cityofls.xyz/index.php?threads/w-s-glove-gang.3147/",
+		"order": 0,
+		"strokecolor": "9933FF",
+		"fillcolor": "9933FF",
+		"latlngarray": [
+			{"lat": -66.546, "lng": -50.172},
+			{"lat": -66.114, "lng": -48.327},
+			{"lat": -66.581, "lng": -47.448},
+			{"lat": -66.729, "lng": -48.063},
+			{"lat": -67.074, "lng": -47.557},
+			{"lat": -67.372, "lng": -49.008}
+		]
+	},
+    {
+		"type": "Territories",
+		"title": "Rollin 20 Neighborhood Bloods",
+		"notes": "",
+		"wiki_link": "https://cityofls.xyz/index.php?threads/rolling-20-neighborhood-bloods.3226/",
+		"order": 0,
+		"strokecolor": "009900",
+		"fillcolor": "009900",
+		"latlngarray": [
+			{"lat": -58.803, "lng": -62.561},
+			{"lat": -59.030, "lng": -62.122},
+			{"lat": -59.524, "lng": -62.869},
+			{"lat": -60.098, "lng": -63.682},
+			{"lat": -60.360, "lng": -63.045},
+			{"lat": -61.112, "lng": -64.429},
+			{"lat": -60.679, "lng": -65.264},
+			{"lat": -60.169, "lng": -65.121},
+			{"lat": -59.696, "lng": -64.418},
+			{"lat": -59.007, "lng": -63.231}
+		]
+	},
+    {
+		"type": "Territories",
+		"title": "S/S Playboys 13",
+		"notes": "",
+		"wiki_link": "https://cityofls.xyz/index.php?threads/s-s-playboys-13.3376/",
+		"order": 0,
+		"strokecolor": "FFFF00",
+		"fillcolor": "FFFF00",
+		"latlngarray": [
+			{"lat": -73.966, "lng": 18.093},
+			{"lat": -73.592, "lng": 21.147},
+			{"lat": -73.043, "lng": 20.268},
+			{"lat": -73.461, "lng": 17.368}
+		]
+	},
 	{
 		"type": "Territories",
 		"title": "Police Station",
