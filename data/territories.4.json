@@ -113,25 +113,18 @@
     },
 	{
         "type": "Territories",
-        "title": "West Side Longo's",
+        "title": "E/S 190 EAST COAST BLOCC CRIP",
         "notes": "",
-        "wiki_link": "https://cityofls.xyz/index.php?threads/west-side-longo-13.3232/",
+        "wiki_link": "https://cityofls.xyz/index.php?threads/e-s-190-east-coast-blocc-crip.3232/",
         "order": 0,
-        "strokecolor": "33FF33",
-        "fillcolor": "33FF33",
+        "strokecolor": "009900",
+        "fillcolor": "009900",
         "latlngarray": [
-            {"lat": -72.015, "lng": -45.922},
-            {"lat": -71.485, "lng": -44.252},
-            {"lat": -71.147, "lng": -41.307},
-            {"lat": -71.569, "lng": -40.824},
-            {"lat": -71.817, "lng": -42.845},
-            {"lat": -72.204, "lng": -42.318},
-            {"lat": -72.008, "lng": -40.231},
-            {"lat": -72.329, "lng": -39.845},
-            {"lat": -73.023, "lng": -41.977},
-            {"lat": -72.920, "lng": -43.734},
-            {"lat": -72.735, "lng": -44.249},
-            {"lat": -72.333, "lng": -45.194}
+            {"lat": -74.135, "lng": 18.450},
+            {"lat": -74.880, "lng": 19.463},
+            {"lat": -74.302, "lng": 25.659},
+            {"lat": -73.335, "lng": 23.682},
+            {"lat": -73.850, "lng": 24.978}
         ]
     },
 	{
