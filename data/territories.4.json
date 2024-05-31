@@ -1,27 +1,12 @@
 [
-	{
+    {
 		"type": "Territories",
 		"title": "E/S Bloodstone Villains",
 		"notes": "",
-		"wiki_link": "https://cityofls.xyz/index.php?threads/e-s-bloodstone-villains.1232/unread",
+		"wiki_link": "https://cityofls.xyz/index.php?threads/e-s-bloodstone-villains.1232/",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
-		"latlngarray": [
-			{"lat": -75.692, "lng": -4.628},
-			{"lat": -76.607, "lng": -7.990},
-			{"lat": -77.018, "lng": -6.012},
-			{"lat": -76.199, "lng": -2.562}
-		]
-	},
-    {
-		"type": "Territories",
-		"title": "PJ Watts Crip",
-		"notes": "",
-		"wiki_link": "https://cityofls.xyz/index.php?threads/pj-watts-crip.1661/",
-		"order": 0,
-		"strokecolor": "0080FF",
-		"fillcolor": "0080FF",
 		"latlngarray": [
 			{"lat": -76.630, "lng": 2.371},
 			{"lat": -76.595, "lng": 0.240},
@@ -38,7 +23,7 @@
 	},
     {
         "type": "Territories",
-        "title": "Original 7Pacc Gangster Crips",
+        "title": "MS13",
         "notes": "",
         "wiki_link": "https://cityofls.xyz/index.php?threads/original-7pacc-gangster-crips.2237/",
         "order": 0,
@@ -81,72 +66,28 @@
         "strokecolor": "0066CC",
         "fillcolor": "0066CC",
         "latlngarray": [
-            {"lat": -73.994, "lng": -18.720},
-            {"lat": -73.738, "lng": -19.819},
-            {"lat": -73.143, "lng": -19.885},
-            {"lat": -72.625, "lng": -18.413},
-            {"lat": -73.149, "lng": -16.171}
+			{"lat": -65.516, "lng": -39.396},
+			{"lat": -65.512, "lng": -35.441},
+			{"lat": -67.241, "lng": -38.639},
+			{"lat": -65.936, "lng": -39.474},
+			{"lat": -66.292, "lng": -39.529},
+			{"lat": -66.647, "lng": -39.463},
+			{"lat": -66.920, "lng": -39.145},
+			{"lat": -67.083, "lng": -37.859},
+			{"lat": -66.864, "lng": -37.409},
+			{"lat": -66.629, "lng": -37.101},
+			{"lat": -66.380, "lng": -36.849},
+			{"lat": -66.252, "lng": -36.233},
+			{"lat": -66.256, "lng": -35.453},
+			{"lat": -66.243, "lng": -34.981},
+			{"lat": -65.909, "lng": -34.981},
+			{"lat": -65.529, "lng": -34.992},
+			{"lat": -65.516, "lng": -36.058},
+			{"lat": -65.520, "lng": -36.629},
+			{"lat": -65.497, "lng": -37.716},
+			{"lat": -65.497, "lng": -38.683}
         ]
     },
-	{
-        "type": "Territories",
-        "title": "W/S 32nd St. Hawaiian Boyz",
-        "notes": "",
-        "wiki_link": "https://cityofls.xyz/index.php?threads/welcome-to-the-ave.3191/",
-        "order": 0,
-        "strokecolor": "FF0000",
-        "fillcolor": "FF0000",
-        "latlngarray": [
-            {"lat": -68.409, "lng": -50.251},
-            {"lat": -69.320, "lng": -49.570},
-            {"lat": -69.977, "lng": -49.064},
-            {"lat": -70.201, "lng": -48.691},
-            {"lat": -70.357, "lng": -48.339},
-            {"lat": -70.350, "lng": -47.702},
-            {"lat": -70.320, "lng": -46.977},
-            {"lat": -70.224, "lng": -46.428},
-            {"lat": -70.045, "lng": -45.263},
-            {"lat": -69.141, "lng": -46.735},
-            {"lat": -68.658, "lng": -47.460},
-            {"lat": -68.140, "lng": -48.273}
-        ]
-    },
-	{
-        "type": "Territories",
-        "title": "E/S 190 EAST COAST BLOCC CRIP",
-        "notes": "",
-        "wiki_link": "https://cityofls.xyz/index.php?threads/e-s-190-east-coast-blocc-crip.3232/",
-        "order": 0,
-        "strokecolor": "009900",
-        "fillcolor": "009900",
-        "latlngarray": [
-            {"lat": -74.135, "lng": 18.450},
-            {"lat": -74.880, "lng": 19.463},
-            {"lat": -74.302, "lng": 25.659},
-            {"lat": -73.335, "lng": 23.682},
-            {"lat": -73.850, "lng": 24.978}
-        ]
-    },
-	{
-		"type": "Territories",
-		"title": "W/S Campanella Park Piru",
-		"notes": "",
-		"wiki_link": "https://cityofls.xyz/index.php?threads/w-s-campanella-park-piru.3144/",
-		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
-		"latlngarray": [
-			{"lat": -72.327, "lng": -4.883},
-			{"lat": -71.683, "lng": -1.345},
-			{"lat": -71.717, "lng": 0.061},
-			{"lat": -72.052, "lng": -0.093},
-			{"lat": -72.387, "lng": -0.027},
-			{"lat": -72.638, "lng": -0.730},
-			{"lat": -73.002, "lng": -1.214},
-			{"lat": -73.162, "lng": -1.587},
-			{"lat": -72.651, "lng": -3.653}
-		]
-	},
 	{
 		"type": "Territories",
 		"title": "Jungle Side Apes",
@@ -162,21 +103,29 @@
 			{"lat": -72.950, "lng": -48.601}
 		]
 	},
-    {
+	{
 		"type": "Territories",
-		"title": "W/S Glove Gang",
+		"title": "We the Avenue",
 		"notes": "",
-		"wiki_link": "https://cityofls.xyz/index.php?threads/w-s-glove-gang.3147/",
+		"wiki_link": "",
 		"order": 0,
-		"strokecolor": "9933FF",
-		"fillcolor": "9933FF",
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
 		"latlngarray": [
-			{"lat": -66.546, "lng": -50.172},
-			{"lat": -66.114, "lng": -48.327},
-			{"lat": -66.581, "lng": -47.448},
-			{"lat": -66.729, "lng": -48.063},
-			{"lat": -67.074, "lng": -47.557},
-			{"lat": -67.372, "lng": -49.008}
+			{"lat": -74.756, "lng": -6.607},
+			{"lat": -74.582, "lng": -7.376},
+			{"lat": -74.488, "lng": -7.947},
+			{"lat": -74.385, "lng": -8.365},
+			{"lat": -74.293, "lng": -8.749},
+			{"lat": -74.156, "lng": -9.353},
+			{"lat": -74.017, "lng": -9.529},
+			{"lat": -73.777, "lng": -8.595},
+			{"lat": -73.557, "lng": -8.068},
+			{"lat": -73.703, "lng": -7.299},
+			{"lat": -73.884, "lng": -6.350},
+			{"lat": -74.051, "lng": -5.669},
+			{"lat": -74.213, "lng": -5.020},
+			{"lat": -74.468, "lng": -5.647}
 		]
 	},
     {
@@ -200,19 +149,26 @@
 			{"lat": -59.007, "lng": -63.231}
 		]
 	},
-    {
+	{
 		"type": "Territories",
-		"title": "S/S Playboys 13",
+		"title": "S/S Boulavard crips",
 		"notes": "",
-		"wiki_link": "https://cityofls.xyz/index.php?threads/s-s-playboys-13.3376/",
+		"wiki_link": "",
 		"order": 0,
-		"strokecolor": "FFFF00",
-		"fillcolor": "FFFF00",
+		"strokecolor": "0066CC",
+		"fillcolor": "0066CC",
 		"latlngarray": [
-			{"lat": -73.966, "lng": 18.093},
-			{"lat": -73.592, "lng": 21.147},
-			{"lat": -73.043, "lng": 20.268},
-			{"lat": -73.461, "lng": 17.368}
+			{"lat": -76.311, "lng": -8.976},
+			{"lat": -76.543, "lng": -8.196},
+			{"lat": -76.262, "lng": -6.987},
+			{"lat": -76.075, "lng": -6.438},
+			{"lat": -75.899, "lng": -5.746},
+			{"lat": -75.757, "lng": -5.230},
+			{"lat": -75.550, "lng": -5.911},
+			{"lat": -75.385, "lng": -6.845},
+			{"lat": -75.752, "lng": -8.196},
+			{"lat": -75.923, "lng": -7.590},
+			{"lat": -76.420, "lng": -9.169}
 		]
 	},
 	{
