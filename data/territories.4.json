@@ -5,7 +5,7 @@
 		"notes": "Weed Shop",
 		"wiki_link": "",
 		"order": 0,
-		"strokecolor": "00890f",
+		"strokecolor": "ffc40c",
 		"fillcolor": "33ff49",
 		"latlngarray": [
 			{"lat": -60.267, "lng": -60.468},
@@ -40,6 +40,177 @@
 			{"lat": -62.430, "lng": -7.166},
 			{"lat": -62.016, "lng": -6.826},
 			{"lat": -61.731, "lng": -6.551}
+		]
+	},
+    {
+		"type": "Territories",
+		"title": "Taco Shop",
+		"notes": "Taco Shop",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "07c821",
+		"fillcolor": "ff0c0c",
+		"latlngarray": [
+			{"lat": -75.434, "lng": -3.057},
+			{"lat": -75.585, "lng": -2.408},
+			{"lat": -75.756, "lng": -3.397},
+			{"lat": -75.623, "lng": -3.826}
+		]
+	},
+    {
+		"type": "Territories",
+		"title": "Pearls",
+		"notes": "Pearls",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "07c821",
+		"fillcolor": "ff0c0c",
+		"latlngarray": [
+			{"lat": -69.420, "lng": -68.921},
+			{"lat": -69.085, "lng": -68.119},
+			{"lat": -69.280, "lng": -67.416},
+			{"lat": -69.593, "lng": -68.031}
+		]
+	},
+    {
+		"type": "Territories",
+		"title": "Bakery",
+		"notes": "Bakery",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "07c821",
+		"fillcolor": "ff0c0c",
+		"latlngarray": [
+			{"lat": -55.336, "lng": -13.598},
+			{"lat": -55.079, "lng": -13.433},
+			{"lat": -55.092, "lng": -13.224},
+			{"lat": -55.230, "lng": -13.290},
+			{"lat": -55.261, "lng": -13.202},
+			{"lat": -55.424, "lng": -13.334}
+		]
+	},
+    {
+		"type": "Territories",
+		"title": "Skating Ring",
+		"notes": "Skating Ring",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "07c8c5",
+		"fillcolor": "c80782",
+		"latlngarray": [
+			{"lat": -69.711, "lng": -40.096},
+			{"lat": -69.991, "lng": -39.283},
+			{"lat": -69.923, "lng": -39.107},
+			{"lat": -70.028, "lng": -38.811},
+			{"lat": -69.930, "lng": -38.547},
+			{"lat": -70.103, "lng": -37.965},
+			{"lat": -69.745, "lng": -37.152},
+			{"lat": -69.881, "lng": -36.646},
+			{"lat": -69.630, "lng": -36.075},
+			{"lat": -68.970, "lng": -38.206},
+			{"lat": -69.538, "lng": -39.975}
+		]
+	},
+    {
+		"type": "Territories",
+		"title": "City Hall",
+		"notes": "City Hall",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "f310d4",
+		"fillcolor": "f3ec10",
+		"latlngarray": [
+			{"lat": -55.652, "lng": -29.981},
+			{"lat": -57.064, "lng": -28.531},
+			{"lat": -57.207, "lng": -28.751},
+			{"lat": -57.721, "lng": -31.124},
+			{"lat": -56.492, "lng": -32.475},
+			{"lat": -56.200, "lng": -32.420},
+			{"lat": -56.065, "lng": -32.003},
+			{"lat": -55.671, "lng": -30.245}
+		]
+	},
+    {
+		"type": "Territories",
+		"title": "Mechanic",
+		"notes": "Mechanic",
+		"wiki_link": "https://nopixel.fandom.com/wiki/<edit this>",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -81.647, "lng": -11.510},
+			{"lat": -81.969, "lng": -11.466},
+			{"lat": -81.972, "lng": -10.433},
+			{"lat": -81.645, "lng": -10.466}
+		]
+	},
+    {
+		"type": "Territories",
+		"title": "Phone Store",
+		"notes": "Phone Store",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "f310d4",
+		"fillcolor": "f3ec10",
+		"latlngarray": [
+			{"lat": -50.514, "lng": -6.973},
+			{"lat": -50.945, "lng": -7.280},
+			{"lat": -51.035, "lng": -6.995},
+			{"lat": -50.562, "lng": -6.720}
+		]
+	},
+    {
+		"type": "Territories",
+		"title": "Hookah",
+		"notes": "Hookah",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "9310f3",
+		"fillcolor": "f37710",
+		"latlngarray": [
+			{"lat": -49.219, "lng": -12.497},
+			{"lat": -49.577, "lng": -12.683},
+			{"lat": -49.733, "lng": -11.991},
+			{"lat": -49.377, "lng": -11.794}
+		]
+	},
+    {
+		"type": "Territories",
+		"title": "Prison",
+		"notes": "Prison",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "f3a010",
+		"fillcolor": "f3c310",
+		"latlngarray": [
+			{"lat": 16.044, "lng": 32.878},
+			{"lat": 14.326, "lng": 31.032},
+			{"lat": 11.908, "lng": 30.065},
+			{"lat": 8.774, "lng": 30.043},
+			{"lat": 6.815, "lng": 33.010},
+			{"lat": 7.273, "lng": 35.778},
+			{"lat": 8.861, "lng": 37.800},
+			{"lat": 10.226, "lng": 38.393},
+			{"lat": 12.295, "lng": 38.635},
+			{"lat": 14.942, "lng": 38.723},
+			{"lat": 16.760, "lng": 36.811},
+			{"lat": 16.676, "lng": 33.449}
+		]
+	},
+    {
+		"type": "Territories",
+		"title": "Spanish Resturant",
+		"notes": "Spanish Resturant",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "07c821",
+		"fillcolor": "ff0c0c",
+		"latlngarray": [
+			{"lat": -58.405, "lng": -4.530},
+			{"lat": -58.503, "lng": -4.024},
+			{"lat": -58.863, "lng": -4.277},
+			{"lat": -58.783, "lng": -4.881}
 		]
 	},
 	{
