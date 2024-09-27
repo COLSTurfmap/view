@@ -1,7 +1,7 @@
 [
     {
 		"type": "Territories",
-		"title": "E/S Bloodstone Villains",
+		"title": "E/S sdfsdfsfs",
 		"notes": "",
 		"wiki_link": "https://cityofls.xyz/index.php?threads/e-s-bloodstone-villains.1232/",
 		"order": 0,
@@ -23,9 +23,9 @@
 	},
     {
         "type": "Territories",
-        "title": "MS13",
+        "title": "S/S Varrio 38th St",
         "notes": "",
-        "wiki_link": "https://cityofls.xyz/index.php?threads/original-7pacc-gangster-crips.2237/",
+        "wiki_link": "https://cityofls.xyz/index.php?threads/s-s-varrio-38th-st.2304/",
         "order": 0,
         "strokecolor": "404040",
         "fillcolor": "404040",
@@ -44,126 +44,25 @@
     },
 	{
         "type": "Territories",
-        "title": "107 selos",
-        "notes": "107 selos",
-        "wiki_link": "https://cityofls.xyz/index.php?threads/we-the-northside-selos.2988/",
-        "order": 0,
-        "strokecolor": "FF8000",
-        "fillcolor": "FF8000",
-        "latlngarray": [
-			{"lat": -75.148, "lng": -6.101},
-			{"lat": -75.499, "lng": -4.256},
-			{"lat": -74.924, "lng": -1.850},
-			{"lat": -74.457, "lng": -3.970}
-        ]
-    },
-	{
-        "type": "Territories",
-        "title": "Rollin 100s Neighborhood Crips",
+        "title": "S/S Rabbit Gang 13",
         "notes": "",
-        "wiki_link": "https://cityofls.xyz/index.php?threads/rollin-100s-neighborhood-crips.3171/",
+        "wiki_link": "https://cityofls.xyz/index.php?threads/s-s-rabbit-gang-13.5030/",
         "order": 0,
-        "strokecolor": "0066CC",
-        "fillcolor": "0066CC",
+        "strokecolor": "404040",
+        "fillcolor": "404040",
         "latlngarray": [
-			{"lat": -65.498, "lng": -39.401},
-			{"lat": -65.480, "lng": -36.676},
-			{"lat": -65.471, "lng": -35.050},
-			{"lat": -66.341, "lng": -35.050},
-			{"lat": -66.315, "lng": -36.369},
-			{"lat": -66.578, "lng": -36.984},
-			{"lat": -66.834, "lng": -37.445},
-			{"lat": -67.034, "lng": -37.735},
-			{"lat": -67.222, "lng": -38.427},
-			{"lat": -67.017, "lng": -38.998},
-			{"lat": -66.680, "lng": -39.416},
-			{"lat": -66.343, "lng": -39.503},
-			{"lat": -65.847, "lng": -39.492}
+            {"lat": -74.565, "lng": -2.496},
+            {"lat": -74.264, "lng": -1.837},
+            {"lat": -73.957, "lng": -1.288},
+            {"lat": -73.712, "lng": -0.453},
+            {"lat": -74.066, "lng": 1.239},
+            {"lat": -74.388, "lng": 0.712},
+            {"lat": -74.559, "lng": 0.536},
+            {"lat": -74.809, "lng": 0.536},
+            {"lat": -74.975, "lng": 0.119},
+            {"lat": -75.037, "lng": -0.365}
         ]
     },
-	{
-		"type": "Territories",
-		"title": "Jungle Side Apes",
-		"notes": "",
-		"wiki_link": "https://cityofls.xyz/index.php?threads/junglesideapes.3301/",
-		"order": 0,
-		"strokecolor": "FF99FF",
-		"fillcolor": "FF99FF",
-		"latlngarray": [
-			{"lat": -72.500, "lng": -49.656},
-			{"lat": -72.200, "lng": -48.217},
-			{"lat": -72.671, "lng": -47.129},
-			{"lat": -72.950, "lng": -48.601}
-		]
-	},
-	{
-		"type": "Territories",
-		"title": "We the Avenue",
-		"notes": "",
-		"wiki_link": "",
-		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
-		"latlngarray": [
-			{"lat": -74.756, "lng": -6.607},
-			{"lat": -74.582, "lng": -7.376},
-			{"lat": -74.488, "lng": -7.947},
-			{"lat": -74.385, "lng": -8.365},
-			{"lat": -74.293, "lng": -8.749},
-			{"lat": -74.156, "lng": -9.353},
-			{"lat": -74.017, "lng": -9.529},
-			{"lat": -73.777, "lng": -8.595},
-			{"lat": -73.557, "lng": -8.068},
-			{"lat": -73.703, "lng": -7.299},
-			{"lat": -73.884, "lng": -6.350},
-			{"lat": -74.051, "lng": -5.669},
-			{"lat": -74.213, "lng": -5.020},
-			{"lat": -74.468, "lng": -5.647}
-		]
-	},
-    {
-		"type": "Territories",
-		"title": "Rollin 20 Neighborhood Bloods",
-		"notes": "",
-		"wiki_link": "https://cityofls.xyz/index.php?threads/rolling-20-neighborhood-bloods.3226/",
-		"order": 0,
-		"strokecolor": "009900",
-		"fillcolor": "009900",
-		"latlngarray": [
-			{"lat": -58.803, "lng": -62.561},
-			{"lat": -59.030, "lng": -62.122},
-			{"lat": -59.524, "lng": -62.869},
-			{"lat": -60.098, "lng": -63.682},
-			{"lat": -60.360, "lng": -63.045},
-			{"lat": -61.112, "lng": -64.429},
-			{"lat": -60.679, "lng": -65.264},
-			{"lat": -60.169, "lng": -65.121},
-			{"lat": -59.696, "lng": -64.418},
-			{"lat": -59.007, "lng": -63.231}
-		]
-	},
-	{
-		"type": "Territories",
-		"title": "S/S Boulavard crips",
-		"notes": "",
-		"wiki_link": "",
-		"order": 0,
-		"strokecolor": "0066CC",
-		"fillcolor": "0066CC",
-		"latlngarray": [
-			{"lat": -76.311, "lng": -8.976},
-			{"lat": -76.543, "lng": -8.196},
-			{"lat": -76.262, "lng": -6.987},
-			{"lat": -76.075, "lng": -6.438},
-			{"lat": -75.899, "lng": -5.746},
-			{"lat": -75.757, "lng": -5.230},
-			{"lat": -75.550, "lng": -5.911},
-			{"lat": -75.385, "lng": -6.845},
-			{"lat": -75.752, "lng": -8.196},
-			{"lat": -75.923, "lng": -7.590},
-			{"lat": -76.420, "lng": -9.169}
-		]
-	},
 	{
 		"type": "Territories",
 		"title": "Police Station",
