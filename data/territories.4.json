@@ -139,10 +139,11 @@
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
 		"latlngarray": [
-			{"lat": -81.647, "lng": -11.510},
-			{"lat": -81.969, "lng": -11.466},
-			{"lat": -81.972, "lng": -10.433},
-			{"lat": -81.645, "lng": -10.466}
+			{"lat": -68.738, "lng": -8.267},
+			{"lat": -68.742, "lng": -6.037},
+			{"lat": -69.432, "lng": -6.070},
+			{"lat": -69.440, "lng": -8.135},
+			{"lat": -68.944, "lng": -8.223}
 		]
 	},
     {
@@ -211,6 +212,185 @@
 			{"lat": -58.503, "lng": -4.024},
 			{"lat": -58.863, "lng": -4.277},
 			{"lat": -58.783, "lng": -4.881}
+		]
+	},
+	{
+		"type": "Territories",
+		"title": "Krazy Ass Mexicans 13",
+		"notes": "Krazy Ass Mexicans 13",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "d5de1e",
+		"fillcolor": "f3ff00",
+		"latlngarray": [
+			{"lat": -70.018, "lng": -45.525},
+			{"lat": -70.275, "lng": -46.909},
+			{"lat": -70.331, "lng": -47.425},
+			{"lat": -69.768, "lng": -48.051},
+			{"lat": -69.435, "lng": -48.392},
+			{"lat": -69.214, "lng": -48.623},
+			{"lat": -69.167, "lng": -48.392},
+			{"lat": -68.331, "lng": -49.227},
+			{"lat": -68.148, "lng": -48.271},
+			{"lat": -68.777, "lng": -47.315},
+			{"lat": -69.377, "lng": -46.294}
+		]
+	},
+	{
+		"type": "Territories",
+		"title": "Play Boy Gangster Crips",
+		"notes": "Play Boy Gangster Crips",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "025eff",
+		"fillcolor": "02f0d3",
+		"latlngarray": [
+			{"lat": -54.067, "lng": -9.339},
+			{"lat": -55.193, "lng": -10.207},
+			{"lat": -54.827, "lng": -11.998},
+			{"lat": -54.745, "lng": -12.328},
+			{"lat": -55.010, "lng": -12.514},
+			{"lat": -54.541, "lng": -14.756},
+			{"lat": -53.069, "lng": -13.668},
+			{"lat": -53.509, "lng": -11.558},
+			{"lat": -53.581, "lng": -11.163},
+			{"lat": -53.873, "lng": -9.889}
+		]
+	},
+	{
+		"type": "Territories",
+		"title": "Rollin 100 Neighborhood Crips",
+		"notes": "Rollin 100 Neighborhood Crips",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "d568fe",
+		"fillcolor": "ba02ff",
+		"latlngarray": [
+			{"lat": -67.602, "lng": -48.619},
+			{"lat": -66.536, "lng": -43.906},
+			{"lat": -67.353, "lng": -42.642},
+			{"lat": -68.376, "lng": -47.399}
+		]
+	},
+	{
+		"type": "Territories",
+		"title": "83 Hoover Criminals",
+		"notes": "83 Hoover Criminals",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "ffa34c",
+		"fillcolor": "ff7c00",
+		"latlngarray": [
+			{"lat": -72.336, "lng": -4.996},
+			{"lat": -71.931, "lng": -2.832},
+			{"lat": -71.681, "lng": -1.349},
+			{"lat": -71.708, "lng": -1.184},
+			{"lat": -71.698, "lng": -0.843},
+			{"lat": -71.702, "lng": 0.112},
+			{"lat": -71.935, "lng": -0.063},
+			{"lat": -72.165, "lng": -0.217},
+			{"lat": -72.306, "lng": -0.096},
+			{"lat": -72.409, "lng": 0.035},
+			{"lat": -72.630, "lng": -0.679},
+			{"lat": -72.761, "lng": -0.931},
+			{"lat": -72.929, "lng": -1.118},
+			{"lat": -73.051, "lng": -1.272},
+			{"lat": -73.185, "lng": -1.634},
+			{"lat": -72.961, "lng": -2.601},
+			{"lat": -72.803, "lng": -3.184},
+			{"lat": -72.561, "lng": -4.106}
+		]
+	},
+	{
+		"type": "Territories",
+		"title": "92 Brouge Avenue Brims",
+		"notes": "92 Brouge Avenue Brims",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "ff7f7f",
+		"fillcolor": "ff0000",
+		"latlngarray": [
+			{"lat": -74.238, "lng": -4.815},
+			{"lat": -74.968, "lng": -7.056},
+			{"lat": -74.434, "lng": -9.407},
+			{"lat": -74.325, "lng": -9.045},
+			{"lat": -74.277, "lng": -8.759},
+			{"lat": -74.001, "lng": -9.495},
+			{"lat": -73.686, "lng": -8.726},
+			{"lat": -73.475, "lng": -8.045},
+			{"lat": -73.643, "lng": -7.353},
+			{"lat": -73.778, "lng": -6.770},
+			{"lat": -73.949, "lng": -5.979},
+			{"lat": -74.110, "lng": -5.298}
+		]
+	},
+	{
+		"type": "Territories",
+		"title": "Varrio 38th Street",
+		"notes": "Varrio 38th Street",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "ffaa00",
+		"fillcolor": "ffe400",
+		"latlngarray": [
+			{"lat": -73.514, "lng": -1.311},
+			{"lat": -73.801, "lng": -0.015},
+			{"lat": -73.905, "lng": 0.402},
+			{"lat": -74.054, "lng": 1.215},
+			{"lat": -74.296, "lng": 0.820},
+			{"lat": -74.453, "lng": 0.589},
+			{"lat": -74.777, "lng": 0.479},
+			{"lat": -74.900, "lng": 0.128},
+			{"lat": -74.960, "lng": -0.114},
+			{"lat": -75.017, "lng": -0.487},
+			{"lat": -74.849, "lng": -0.993},
+			{"lat": -74.757, "lng": -1.465},
+			{"lat": -74.533, "lng": -2.421},
+			{"lat": -74.314, "lng": -3.344},
+			{"lat": -74.261, "lng": -3.586},
+			{"lat": -73.972, "lng": -2.718},
+			{"lat": -73.691, "lng": -1.806}
+		]
+	},
+	{
+		"type": "Territories",
+		"title": "S/S 5th Ave Graveyard Brims",
+		"notes": "S/S 5th Ave Graveyard Brims",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "c04d4d",
+		"fillcolor": "ff0000",
+		"latlngarray": [
+			{"lat": -67.233, "lng": -38.619},
+			{"lat": -66.648, "lng": -39.421},
+			{"lat": -65.439, "lng": -39.454},
+			{"lat": -65.421, "lng": -37.861},
+			{"lat": -65.421, "lng": -36.697},
+			{"lat": -66.039, "lng": -36.642},
+			{"lat": -66.354, "lng": -36.861},
+			{"lat": -66.648, "lng": -37.147},
+			{"lat": -66.994, "lng": -37.718}
+		]
+	},
+	{
+		"type": "Territories",
+		"title": "W/S 52 Hoover Criminals",
+		"notes": "W/S 52 Hoover Criminals",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "ffa872",
+		"fillcolor": "ff8235",
+		"latlngarray": [
+			{"lat": -52.473, "lng": -16.608},
+			{"lat": -54.563, "lng": -17.498},
+			{"lat": -54.192, "lng": -19.487},
+			{"lat": -53.778, "lng": -21.475},
+			{"lat": -53.668, "lng": -21.992},
+			{"lat": -52.252, "lng": -21.563},
+			{"lat": -50.983, "lng": -21.168},
+			{"lat": -51.286, "lng": -19.992},
+			{"lat": -51.663, "lng": -18.937},
+			{"lat": -52.009, "lng": -17.949}
 		]
 	},
 	{
