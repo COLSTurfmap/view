@@ -216,24 +216,21 @@
 	},
 	{
 		"type": "Territories",
-		"title": "Krazy Ass Mexicans 13",
-		"notes": "Krazy Ass Mexicans 13",
+		"title": "Avenu Piru Gang",
+		"notes": "Avenu Piru Gang",
 		"wiki_link": "",
 		"order": 0,
-		"strokecolor": "d5de1e",
-		"fillcolor": "f3ff00",
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
 		"latlngarray": [
-			{"lat": -70.018, "lng": -45.525},
-			{"lat": -70.275, "lng": -46.909},
-			{"lat": -70.331, "lng": -47.425},
-			{"lat": -69.768, "lng": -48.051},
-			{"lat": -69.435, "lng": -48.392},
-			{"lat": -69.214, "lng": -48.623},
-			{"lat": -69.167, "lng": -48.392},
-			{"lat": -68.331, "lng": -49.227},
-			{"lat": -68.148, "lng": -48.271},
-			{"lat": -68.777, "lng": -47.315},
-			{"lat": -69.377, "lng": -46.294}
+			{"lat": -72.240, "lng": -19.837},
+			{"lat": -72.480, "lng": -18.969},
+			{"lat": -73.017, "lng": -20.507},
+			{"lat": -73.771, "lng": -20.529},
+			{"lat": -73.771, "lng": -21.727},
+			{"lat": -73.241, "lng": -21.727},
+			{"lat": -72.889, "lng": -21.683},
+			{"lat": -72.507, "lng": -20.586}
 		]
 	},
 	{
