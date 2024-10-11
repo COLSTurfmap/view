@@ -371,27 +371,6 @@
 	},
 	{
 		"type": "Territories",
-		"title": "W/S 52 Hoover Criminals",
-		"notes": "W/S 52 Hoover Criminals",
-		"wiki_link": "",
-		"order": 0,
-		"strokecolor": "ffa872",
-		"fillcolor": "ff8235",
-		"latlngarray": [
-			{"lat": -52.473, "lng": -16.608},
-			{"lat": -54.563, "lng": -17.498},
-			{"lat": -54.192, "lng": -19.487},
-			{"lat": -53.778, "lng": -21.475},
-			{"lat": -53.668, "lng": -21.992},
-			{"lat": -52.252, "lng": -21.563},
-			{"lat": -50.983, "lng": -21.168},
-			{"lat": -51.286, "lng": -19.992},
-			{"lat": -51.663, "lng": -18.937},
-			{"lat": -52.009, "lng": -17.949}
-		]
-	},
-	{
-		"type": "Territories",
 		"title": "Police Station",
 		"notes": "Police Station",
 		"wiki_link": "",
