@@ -216,25 +216,6 @@
 	},
 	{
 		"type": "Territories",
-		"title": "Avenue Piru Gang",
-		"notes": "Avenue Piru Gang",
-		"wiki_link": "",
-		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
-		"latlngarray": [
-			{"lat": -72.240, "lng": -19.837},
-			{"lat": -72.480, "lng": -18.969},
-			{"lat": -73.017, "lng": -20.507},
-			{"lat": -73.771, "lng": -20.529},
-			{"lat": -73.771, "lng": -21.727},
-			{"lat": -73.241, "lng": -21.727},
-			{"lat": -72.889, "lng": -21.683},
-			{"lat": -72.507, "lng": -20.586}
-		]
-	},
-	{
-		"type": "Territories",
 		"title": "Play Boy Gangster Crips",
 		"notes": "Play Boy Gangster Crips",
 		"wiki_link": "",
