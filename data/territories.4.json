@@ -287,32 +287,6 @@
 	},
 	{
 		"type": "Territories",
-		"title": "BayBay Criminals",
-		"notes": "BayBay Criminals",
-		"wiki_link": "",
-		"order": 0,
-		"strokecolor": "ffa34c",
-		"fillcolor": "ff7c00",
-		"latlngarray": [
-			{"lat": -66.978, "lng": -52.247},
-			{"lat": -66.974, "lng": -53.346},
-			{"lat": -66.978, "lng": -53.895},
-			{"lat": -67.042, "lng": -54.258},
-			{"lat": -66.697, "lng": -54.796},
-			{"lat": -66.431, "lng": -55.213},
-			{"lat": -66.241, "lng": -55.609},
-			{"lat": -65.987, "lng": -55.049},
-			{"lat": -65.709, "lng": -54.301},
-			{"lat": -65.477, "lng": -53.807},
-			{"lat": -65.641, "lng": -53.477},
-			{"lat": -65.853, "lng": -53.104},
-			{"lat": -66.095, "lng": -52.741},
-			{"lat": -66.321, "lng": -52.577},
-			{"lat": -66.575, "lng": -52.434}
-		]
-	},
-	{
-		"type": "Territories",
 		"title": "83 Hoover Criminals",
 		"notes": "83 Hoover Criminals",
 		"wiki_link": "",
@@ -342,29 +316,6 @@
 	},
 	{
 		"type": "Territories",
-		"title": "92 Brouge Avenue Brims",
-		"notes": "92 Brouge Avenue Brims",
-		"wiki_link": "",
-		"order": 0,
-		"strokecolor": "ff7f7f",
-		"fillcolor": "ff0000",
-		"latlngarray": [
-			{"lat": -74.238, "lng": -4.815},
-			{"lat": -74.968, "lng": -7.056},
-			{"lat": -74.434, "lng": -9.407},
-			{"lat": -74.325, "lng": -9.045},
-			{"lat": -74.277, "lng": -8.759},
-			{"lat": -74.001, "lng": -9.495},
-			{"lat": -73.686, "lng": -8.726},
-			{"lat": -73.475, "lng": -8.045},
-			{"lat": -73.643, "lng": -7.353},
-			{"lat": -73.778, "lng": -6.770},
-			{"lat": -73.949, "lng": -5.979},
-			{"lat": -74.110, "lng": -5.298}
-		]
-	},
-	{
-		"type": "Territories",
 		"title": "Varrio 38th Street",
 		"notes": "Varrio 38th Street",
 		"wiki_link": "",
@@ -389,26 +340,6 @@
 			{"lat": -74.261, "lng": -3.586},
 			{"lat": -73.972, "lng": -2.718},
 			{"lat": -73.691, "lng": -1.806}
-		]
-	},
-	{
-		"type": "Territories",
-		"title": "S/S 5th Ave Graveyard Brims",
-		"notes": "S/S 5th Ave Graveyard Brims",
-		"wiki_link": "",
-		"order": 0,
-		"strokecolor": "c04d4d",
-		"fillcolor": "ff0000",
-		"latlngarray": [
-			{"lat": -67.233, "lng": -38.619},
-			{"lat": -66.648, "lng": -39.421},
-			{"lat": -65.439, "lng": -39.454},
-			{"lat": -65.421, "lng": -37.861},
-			{"lat": -65.421, "lng": -36.697},
-			{"lat": -66.039, "lng": -36.642},
-			{"lat": -66.354, "lng": -36.861},
-			{"lat": -66.648, "lng": -37.147},
-			{"lat": -66.994, "lng": -37.718}
 		]
 	},
 	{
