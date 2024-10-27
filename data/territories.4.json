@@ -20,6 +20,25 @@
 			{"lat": -60.130, "lng": -60.248}
 		]
 	},
+	{
+		"type": "Territories",
+		"title": "Varrio Family Mob Rifa 13",
+		"notes": "Varrio Family Mob Rifa 13",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "#fa34c2",
+		"fillcolor": "#ffa8e6",
+		"latlngarray": [
+			{"lat": -75.122, "lng": -6.309},
+			{"lat": -74.401, "lng": -4.002},
+			{"lat": -74.635, "lng": -3.035},
+			{"lat": -74.708, "lng": -2.695},
+			{"lat": -74.892, "lng": -1.849},
+			{"lat": -75.176, "lng": -2.937},
+			{"lat": -75.515, "lng": -4.398},
+			{"lat": -75.224, "lng": -5.771}
+		]
+	},
     {
 		"type": "Territories",
 		"title": "Hospital",
