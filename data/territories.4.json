@@ -130,6 +130,27 @@
 			{"lat": -69.538, "lng": -39.975}
 		]
 	},
+	{
+		"type": "Territories",
+		"title": "PJ Watts Crip",
+		"notes": "PJ Watts Crip",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "0082ff",
+		"fillcolor": "62deff",
+		"latlngarray": [
+			{"lat": -76.576, "lng": 2.366},
+			{"lat": -77.233, "lng": 2.256},
+			{"lat": -77.987, "lng": 2.212},
+			{"lat": -77.886, "lng": -0.622},
+			{"lat": -77.784, "lng": -1.347},
+			{"lat": -77.568, "lng": -2.336},
+			{"lat": -77.320, "lng": -3.039},
+			{"lat": -76.943, "lng": -2.051},
+			{"lat": -76.642, "lng": -0.754},
+			{"lat": -76.499, "lng": 0.894}
+		]
+	},
     {
 		"type": "Territories",
 		"title": "City Hall",
