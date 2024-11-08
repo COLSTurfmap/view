@@ -256,27 +256,6 @@
 	},
 	{
 		"type": "Territories",
-		"title": "Play Boy Gangster Crips",
-		"notes": "Play Boy Gangster Crips",
-		"wiki_link": "",
-		"order": 0,
-		"strokecolor": "025eff",
-		"fillcolor": "02f0d3",
-		"latlngarray": [
-			{"lat": -54.067, "lng": -9.339},
-			{"lat": -55.193, "lng": -10.207},
-			{"lat": -54.827, "lng": -11.998},
-			{"lat": -54.745, "lng": -12.328},
-			{"lat": -55.010, "lng": -12.514},
-			{"lat": -54.541, "lng": -14.756},
-			{"lat": -53.069, "lng": -13.668},
-			{"lat": -53.509, "lng": -11.558},
-			{"lat": -53.581, "lng": -11.163},
-			{"lat": -53.873, "lng": -9.889}
-		]
-	},
-	{
-		"type": "Territories",
 		"title": "Tiny Boys 13",
 		"notes": "Tiny Boys 13",
 		"wiki_link": "",
