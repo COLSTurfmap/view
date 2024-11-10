@@ -276,28 +276,6 @@
 	},
 	{
 		"type": "Territories",
-		"title": "92 Hoover Criminals",
-		"notes": "92 Hoover Criminals",
-		"wiki_link": "",
-		"order": 0,
-		"strokecolor": "#c68902",
-		"fillcolor": "#74c1ff",
-		"latlngarray": [
-			{"lat": -73.138, "lng": -15.013},
-			{"lat": -72.422, "lng": -13.013},
-			{"lat": -72.955, "lng": -10.750},
-			{"lat": -73.026, "lng": -10.629},
-			{"lat": -73.103, "lng": -10.728},
-			{"lat": -73.192, "lng": -11.123},
-			{"lat": -73.444, "lng": -12.738},
-			{"lat": -73.522, "lng": -13.222},
-			{"lat": -73.522, "lng": -13.507},
-			{"lat": -73.451, "lng": -13.782},
-			{"lat": -73.192, "lng": -14.837}
-		]
-	},
-	{
-		"type": "Territories",
 		"title": "83 Hoover Criminals",
 		"notes": "83 Hoover Criminals",
 		"wiki_link": "",
