@@ -130,27 +130,6 @@
 			{"lat": -69.538, "lng": -39.975}
 		]
 	},
-	{
-		"type": "Territories",
-		"title": "PJ Watts Crip",
-		"notes": "PJ Watts Crip",
-		"wiki_link": "",
-		"order": 0,
-		"strokecolor": "0082ff",
-		"fillcolor": "62deff",
-		"latlngarray": [
-			{"lat": -76.576, "lng": 2.366},
-			{"lat": -77.233, "lng": 2.256},
-			{"lat": -77.987, "lng": 2.212},
-			{"lat": -77.886, "lng": -0.622},
-			{"lat": -77.784, "lng": -1.347},
-			{"lat": -77.568, "lng": -2.336},
-			{"lat": -77.320, "lng": -3.039},
-			{"lat": -76.943, "lng": -2.051},
-			{"lat": -76.642, "lng": -0.754},
-			{"lat": -76.499, "lng": 0.894}
-		]
-	},
     {
 		"type": "Territories",
 		"title": "City Hall",
@@ -252,26 +231,6 @@
 			{"lat": -58.503, "lng": -4.024},
 			{"lat": -58.863, "lng": -4.277},
 			{"lat": -58.783, "lng": -4.881}
-		]
-	},
-	{
-		"type": "Territories",
-		"title": "Tiny Boys 13",
-		"notes": "Tiny Boys 13",
-		"wiki_link": "",
-		"order": 0,
-		"strokecolor": "#348709",
-		"fillcolor": "#63d428",
-		"latlngarray": [
-			{"lat": -76.625, "lng": 12.436},
-			{"lat": -75.394, "lng": 12.740},
-			{"lat": -75.360, "lng": 14.652},
-			{"lat": -75.266, "lng": 16.014},
-			{"lat": -75.159, "lng": 17.091},
-			{"lat": -76.641, "lng": 17.552},
-			{"lat": -76.641, "lng": 16.695},
-			{"lat": -76.646, "lng": 15.707},
-			{"lat": -76.641, "lng": 13.817}
 		]
 	},
 	{
