@@ -39,22 +39,6 @@
 			{"lat": -75.224, "lng": -5.771}
 		]
 	},
-	{
-		"type": "Territories",
-		"title": "Brook Avenue Outlaw Bloods",
-		"notes": "Brook Avenue Outlaw Bloods",
-		"wiki_link": "",
-		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
-		"latlngarray": [
-			{"lat": -78.937, "lng": 10.814},
-			{"lat": -77.841, "lng": 11.297},
-			{"lat": -77.781, "lng": 7.694},
-			{"lat": -78.861, "lng": 7.232},
-			{"lat": -78.882, "lng": 9.012}
-		]
-	},
     {
 		"type": "Territories",
 		"title": "Hospital",
