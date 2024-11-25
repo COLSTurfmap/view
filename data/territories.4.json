@@ -39,23 +39,6 @@
 			{"lat": -75.224, "lng": -5.771}
 		]
 	},
-	{
-		"type": "Territories",
-		"title": "Tiny Boys 13",
-		"notes": "Tiny Boys 13",
-		"wiki_link": "",
-		"order": 0,
-		"strokecolor": "#220134",
-		"fillcolor": "#6a1498",
-		"latlngarray": [
-			{"lat": -76.592, "lng": 12.532},
-			{"lat": -75.374, "lng": 12.927},
-			{"lat": -75.313, "lng": 15.542},
-			{"lat": -75.962, "lng": 15.608},
-			{"lat": -76.587, "lng": 15.674},
-			{"lat": -76.592, "lng": 13.850}
-		]
-	},
     {
 		"type": "Territories",
 		"title": "Hospital",
@@ -256,8 +239,8 @@
 		"notes": "Main Street Mafia Crip",
 		"wiki_link": "",
 		"order": 0,
-		"strokecolor": "d5f326",
-		"fillcolor": "35a7d8",
+		"strokecolor": "#220134",
+		"fillcolor": "#6a1498",
 		"latlngarray": [
 			{"lat": -60.491, "lng": 13.955},
 			{"lat": -60.755, "lng": 14.317},
