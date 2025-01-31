@@ -20,6 +20,26 @@
 			{"lat": -60.130, "lng": -60.248}
 		]
 	},
+{
+		"type": "Territories",
+		"title": "F7VE 7EVEN",
+		"notes": "Tier 1",
+		"wiki_link": "https://cols-rp.com/threads/f7ve-7even.339/",
+		"order": 0,
+		"strokecolor": "3d9c0c",
+		"fillcolor": "90ff57",
+		"latlngarray": [
+			{"lat": -67.007, "lng": -37.061},
+			{"lat": -66.887, "lng": -36.171},
+			{"lat": -66.861, "lng": -35.116},
+			{"lat": -66.857, "lng": -33.842},
+			{"lat": -67.157, "lng": -33.721},
+			{"lat": -67.546, "lng": -34.073},
+			{"lat": -67.838, "lng": -34.765},
+			{"lat": -68.057, "lng": -35.929},
+			{"lat": -67.466, "lng": -36.753}
+		]
+	},
 	{
 		"type": "Territories",
 		"title": "Police Station",
