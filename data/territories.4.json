@@ -66,6 +66,27 @@
 	},
 {
 		"type": "Territories",
+		"title": "5578 Neighborhood Crip",
+		"notes": "Tier 1",
+		"wiki_link": "https://cols-rp.com/threads/5578-neighborhood-crip.1921/",
+		"order": 0,
+		"strokecolor": "3d9c0c",
+		"fillcolor": "90ff57",
+		"latlngarray": [
+			{"lat": -72.184, "lng": -20.003},
+			{"lat": -72.454, "lng": -18.927},
+			{"lat": -72.606, "lng": -18.355},
+			{"lat": -72.815, "lng": -17.564},
+			{"lat": -73.191, "lng": -18.740},
+			{"lat": -73.073, "lng": -19.773},
+			{"lat": -72.912, "lng": -20.278},
+			{"lat": -72.655, "lng": -21.278},
+			{"lat": -72.328, "lng": -20.454}
+		]
+	},
+
+{
+		"type": "Territories",
 		"title": "Southside Gunnits",
 		"notes": "Tier 1",
 		"wiki_link": "https://cols-rp.com/threads/tha-southside-gunnits.562/",
