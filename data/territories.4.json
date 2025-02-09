@@ -188,22 +188,6 @@
 	},
 {
 		"type": "Territories",
-		"title": "Bird Gang",
-		"notes": "Tier 1",
-		"wiki_link": "https://cols-rp.com/threads/bird-gang.717/",
-		"order": 0,
-		"strokecolor": "cf2323",
-		"fillcolor": "ff6e6e",
-		"latlngarray": [
-			{"lat": -77.910, "lng": 11.299},
-			{"lat": -78.564, "lng": 10.991},
-			{"lat": -78.465, "lng": 7.311},
-			{"lat": -77.790, "lng": 7.575},
-			{"lat": -77.813, "lng": 9.750}
-		]
-	},
-{
-		"type": "Territories",
 		"title": "6 Pacc neighborhood Crips",
 		"notes": "Tier 1",
 		"wiki_link": "https://cols-rp.com/threads/e-s-6-pacc-neighborhood-crips.446/",
