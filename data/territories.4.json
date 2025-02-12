@@ -142,27 +142,6 @@
 	},
 {
 		"type": "Territories",
-		"title": "Rancho Mafia Bloods",
-		"notes": "Tier 1",
-		"wiki_link": "https://cols-rp.com/threads/rancho-mafia-bloods.784/",
-		"order": 0,
-		"strokecolor": "ff4848",
-		"fillcolor": "9a2323",
-		"latlngarray": [
-			{"lat": -74.749, "lng": -8.123},
-			{"lat": -74.475, "lng": -7.255},
-			{"lat": -74.203, "lng": -6.355},
-			{"lat": -74.040, "lng": -5.816},
-			{"lat": -74.262, "lng": -4.827},
-			{"lat": -74.581, "lng": -5.772},
-			{"lat": -74.902, "lng": -6.882},
-			{"lat": -74.942, "lng": -7.146},
-			{"lat": -74.893, "lng": -7.497},
-			{"lat": -74.804, "lng": -7.926}
-		]
-	},
-{
-		"type": "Territories",
 		"title": "Welcome to Magellan",
 		"notes": "Tier 1",
 		"wiki_link": "https://cols-rp.com/threads/welcome-to-magellan.454/",
