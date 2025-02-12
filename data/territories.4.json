@@ -217,28 +217,6 @@
 	},
 {
 		"type": "Territories",
-		"title": "Nightmare in Vespucci",
-		"notes": "Tier 1",
-		"wiki_link": "https://cols-rp.com/threads/nightmare-in-vespucci.931/",
-		"order": 0,
-		"strokecolor": "772eb1",
-		"fillcolor": "ab41ff",
-		"latlngarray": [
-			{"lat": -58.970, "lng": -60.245},
-			{"lat": -59.509, "lng": -58.970},
-			{"lat": -59.930, "lng": -59.673},
-			{"lat": -59.903, "lng": -59.849},
-			{"lat": -60.040, "lng": -60.113},
-			{"lat": -60.600, "lng": -61.003},
-			{"lat": -60.751, "lng": -61.343},
-			{"lat": -60.346, "lng": -62.244},
-			{"lat": -59.958, "lng": -61.849},
-			{"lat": -59.481, "lng": -61.025},
-			{"lat": -59.150, "lng": -60.541}
-		]
-	},
-{
-		"type": "Territories",
 		"title": "W/S Yank Mob",
 		"notes": "Tier 1",
 		"wiki_link": "https://cols-rp.com/threads/w-s-yank-mob.700/",
