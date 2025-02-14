@@ -87,37 +87,6 @@
 
 {
 		"type": "Territories",
-		"title": "Southside Gunnits",
-		"notes": "Tier 1",
-		"wiki_link": "https://cols-rp.com/threads/tha-southside-gunnits.562/",
-		"order": 0,
-		"strokecolor": "1e35b5",
-		"fillcolor": "4b67ff",
-		"latlngarray": [
-			{"lat": -75.777, "lng": -13.957},
-			{"lat": -75.263, "lng": -12.188},
-			{"lat": -75.227, "lng": -12.012},
-			{"lat": -75.272, "lng": -11.507},
-			{"lat": -75.350, "lng": -10.870},
-			{"lat": -75.446, "lng": -10.068},
-			{"lat": -75.535, "lng": -9.442},
-			{"lat": -75.584, "lng": -9.167},
-			{"lat": -75.666, "lng": -9.464},
-			{"lat": -75.809, "lng": -9.892},
-			{"lat": -75.933, "lng": -10.353},
-			{"lat": -76.060, "lng": -10.749},
-			{"lat": -76.200, "lng": -11.013},
-			{"lat": -76.309, "lng": -11.024},
-			{"lat": -76.322, "lng": -11.606},
-			{"lat": -76.322, "lng": -12.287},
-			{"lat": -76.189, "lng": -12.419},
-			{"lat": -76.050, "lng": -12.693},
-			{"lat": -75.906, "lng": -13.232},
-			{"lat": -75.817, "lng": -13.671}
-		]
-	},
-{
-		"type": "Territories",
 		"title": "Barrio Kurbside Loco Gang",
 		"notes": "Tier 1",
 		"wiki_link": "https://cols-rp.com/threads/%CA%99%E1%B4%80%CA%80%CA%80%C9%AA%E1%B4%8F-%E1%B4%8B%E1%B4%9C%CA%80%CA%99%EA%9C%B1%C9%AA%E1%B4%85%E1%B4%87-%CA%9F%E1%B4%8Fc%E1%B4%8F-%C9%A2%E1%B4%80%C9%B4%C9%A2.422/",
