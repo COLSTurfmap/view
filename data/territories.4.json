@@ -46,36 +46,6 @@
 	},
 {
 		"type": "Territories",
-		"title": "F7VE 7EVEN",
-		"notes": "Tier 1",
-		"wiki_link": "https://cols-rp.com/threads/f7ve-7even.339/",
-		"order": 0,
-		"strokecolor": "1a558d",
-		"fillcolor": "28c9e0",
-		"latlngarray": [
-			{"lat": -48.502, "lng": -21.165},
-			{"lat": -48.574, "lng": -20.056},
-			{"lat": -48.625, "lng": -19.056},
-			{"lat": -48.603, "lng": -18.232},
-			{"lat": -49.296, "lng": -18.254},
-			{"lat": -50.036, "lng": -18.320},
-			{"lat": -50.611, "lng": -18.474},
-			{"lat": -51.179, "lng": -18.682},
-			{"lat": -51.433, "lng": -18.825},
-			{"lat": -51.220, "lng": -19.419},
-			{"lat": -51.082, "lng": -19.847},
-			{"lat": -50.930, "lng": -20.253},
-			{"lat": -50.812, "lng": -20.638},
-			{"lat": -50.764, "lng": -21.088},
-			{"lat": -50.757, "lng": -21.297},
-			{"lat": -50.176, "lng": -21.264},
-			{"lat": -49.646, "lng": -21.209},
-			{"lat": -49.045, "lng": -21.176},
-			{"lat": -48.691, "lng": -21.165}
-		]
-	},
-{
-		"type": "Territories",
 		"title": "5578 Neighborhood Crip",
 		"notes": "Tier 1",
 		"wiki_link": "https://cols-rp.com/threads/5578-neighborhood-crip.1921/",
@@ -244,35 +214,6 @@
 			{"lat": -72.162, "lng": -46.014},
 			{"lat": -71.870, "lng": -46.662},
 			{"lat": -72.369, "lng": -49.035}
-		]
-	},
-{
-		"type": "Territories",
-		"title": "6 Pacc neighborhood Crips",
-		"notes": "Tier 1",
-		"wiki_link": "https://cols-rp.com/threads/e-s-6-pacc-neighborhood-crips.446/",
-		"order": 0,
-		"strokecolor": "3c40bc",
-		"fillcolor": "5087ff",
-		"latlngarray": [
-			{"lat": -74.368, "lng": 25.369},
-			{"lat": -74.492, "lng": 23.787},
-			{"lat": -74.638, "lng": 22.139},
-			{"lat": -74.806, "lng": 20.392},
-			{"lat": -74.886, "lng": 19.480},
-			{"lat": -74.708, "lng": 19.173},
-			{"lat": -74.424, "lng": 18.678},
-			{"lat": -74.198, "lng": 18.447},
-			{"lat": -74.042, "lng": 19.414},
-			{"lat": -73.909, "lng": 20.491},
-			{"lat": -73.740, "lng": 21.535},
-			{"lat": -73.545, "lng": 22.545},
-			{"lat": -73.376, "lng": 23.347},
-			{"lat": -73.354, "lng": 23.776},
-			{"lat": -73.517, "lng": 24.259},
-			{"lat": -73.700, "lng": 24.677},
-			{"lat": -73.893, "lng": 25.028},
-			{"lat": -74.090, "lng": 25.182}
 		]
 	},
 {
