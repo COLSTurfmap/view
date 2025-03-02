@@ -140,31 +140,6 @@
 	},
 {
 		"type": "Territories",
-		"title": "Wei Cheng Triad",
-		"notes": "Tier 1",
-		"wiki_link": "https://cols-rp.com/threads/wei-cheng-triad-%F0%9F%94%BA.771/",
-		"order": 0,
-		"strokecolor": "2ca5af",
-		"fillcolor": "3df0ff",
-		"latlngarray": [
-			{"lat": -65.500, "lng": -39.387},
-			{"lat": -65.441, "lng": -38.739},
-			{"lat": -65.482, "lng": -37.135},
-			{"lat": -65.578, "lng": -36.794},
-			{"lat": -66.073, "lng": -36.794},
-			{"lat": -66.426, "lng": -36.871},
-			{"lat": -66.750, "lng": -37.212},
-			{"lat": -67.013, "lng": -37.684},
-			{"lat": -67.286, "lng": -38.574},
-			{"lat": -67.120, "lng": -38.882},
-			{"lat": -66.823, "lng": -39.233},
-			{"lat": -66.654, "lng": -39.442},
-			{"lat": -66.157, "lng": -39.453},
-			{"lat": -65.736, "lng": -39.475}
-		]
-	},
-{
-		"type": "Territories",
 		"title": "Insane Loccs",
 		"notes": "Tier 1",
 		"wiki_link": "https://cols-rp.com/threads/insane-loccs.925/",
