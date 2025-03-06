@@ -140,27 +140,6 @@
 	},
 {
 		"type": "Territories",
-		"title": "Insane Loccs",
-		"notes": "Tier 1",
-		"wiki_link": "https://cols-rp.com/threads/insane-loccs.925/",
-		"order": 0,
-		"strokecolor": "2846a9",
-		"fillcolor": "547cff",
-		"latlngarray": [
-			{"lat": -72.271, "lng": -5.554},
-			{"lat": -71.652, "lng": -2.302},
-			{"lat": -71.394, "lng": -2.544},
-			{"lat": -70.883, "lng": -4.455},
-			{"lat": -70.535, "lng": -6.103},
-			{"lat": -70.527, "lng": -8.322},
-			{"lat": -71.062, "lng": -9.619},
-			{"lat": -71.282, "lng": -9.685},
-			{"lat": -71.735, "lng": -7.773},
-			{"lat": -72.090, "lng": -6.455}
-		]
-	},
-{
-		"type": "Territories",
 		"title": "4238 PayBacc Gangster Crip",
 		"notes": "Tier 1",
 		"wiki_link": "https://cols-rp.com/threads/4238-paybacc-gangster-crip.742/",
