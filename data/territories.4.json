@@ -184,23 +184,6 @@
 			{"lat": -75.035, "lng": -12.971}
 		]
 	},
-
-{
-		"type": "Territories",
-		"title": "52 Hoover Gangster Crip",
-		"notes": "Tier 1",
-		"wiki_link": "https://cols-rp.com/threads/baby-generals.2545/page-4#post-9266",
-		"order": 0,
-		"strokecolor": "ab6a29",
-		"fillcolor": "f79534",
-		"latlngarray": [
-			{"lat": -77.766, "lng": 7.750},
-			{"lat": -77.799, "lng": 11.265},
-			{"lat": -78.295, "lng": 11.134},
-			{"lat": -78.237, "lng": 7.530},
-			{"lat": -77.942, "lng": 7.662}
-		]
-	},
 {
 		"type": "Territories",
 		"title": "84th Magellan Ave Mafia Crips",
