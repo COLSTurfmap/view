@@ -128,29 +128,6 @@
 	},
 {
 		"type": "Territories",
-		"title": "Rollin 30 Harlem Crips",
-		"notes": "Tier 1",
-		"wiki_link": "https://cols-rp.com/threads/rollin-30s-harlem-crips.3286/",
-		"order": 0,
-		"strokecolor": "ff4848",
-		"fillcolor": "9a2323",
-		"latlngarray": [
-			{"lat": -77.407, "lng": 12.170},
-			{"lat": -77.429, "lng": 13.038},
-			{"lat": -77.453, "lng": 13.982},
-			{"lat": -77.757, "lng": 13.894},
-			{"lat": -78.144, "lng": 13.741},
-			{"lat": -78.456, "lng": 13.520},
-			{"lat": -78.445, "lng": 12.828},
-			{"lat": -78.430, "lng": 11.850},
-			{"lat": -78.065, "lng": 12.026},
-			{"lat": -77.796, "lng": 12.157},
-			{"lat": -77.785, "lng": 11.982},
-			{"lat": -77.526, "lng": 12.114}
-		]
-	},
-{
-		"type": "Territories",
 		"title": "W/S 74 Hoover",
 		"notes": "Tier 1",
 		"wiki_link": "https://cols-rp.com/threads/w-s-74-hoover.2988/",
