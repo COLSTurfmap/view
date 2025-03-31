@@ -169,19 +169,27 @@
 	},
 {
 		"type": "Territories",
-		"title": "4238 PayBacc Gangster Crip",
+		"title": "Campanella Park Piru",
 		"notes": "Tier 1",
-		"wiki_link": "https://cols-rp.com/threads/4238-paybacc-gangster-crip.742/",
+		"wiki_link": "https://cols-rp.com/threads/campanella-park-piru.4412/",
 		"order": 0,
-		"strokecolor": "2846a9",
-		"fillcolor": "547cff",
+		"strokecolor": "a80101",
+		"fillcolor": "ff4f4f",
 		"latlngarray": [
-			{"lat": -77.660, "lng": 11.315},
-			{"lat": -78.464, "lng": 11.007},
-			{"lat": -78.363, "lng": 7.491},
-			{"lat": -77.313, "lng": 7.931},
-			{"lat": -77.303, "lng": 11.490},
-			{"lat": -77.423, "lng": 11.490}
+			{"lat": -59.020, "lng": 18.155},
+			{"lat": -60.503, "lng": 17.353},
+			{"lat": -61.076, "lng": 17.067},
+			{"lat": -61.076, "lng": 16.265},
+			{"lat": -61.140, "lng": 15.617},
+			{"lat": -61.230, "lng": 14.859},
+			{"lat": -61.272, "lng": 14.804},
+			{"lat": -60.868, "lng": 14.441},
+			{"lat": -60.497, "lng": 13.925},
+			{"lat": -60.154, "lng": 14.892},
+			{"lat": -59.792, "lng": 15.694},
+			{"lat": -59.425, "lng": 16.463},
+			{"lat": -59.144, "lng": 17.221},
+			{"lat": -59.003, "lng": 17.682}
 		]
 	},
 	{
