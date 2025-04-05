@@ -113,30 +113,6 @@
 	},
 {
 		"type": "Territories",
-		"title": "Van Ness Brims",
-		"notes": "Tier 1",
-		"wiki_link": "https://cols-rp.com/threads/van-ness-brims.334/page-3#post-5901",
-		"order": 0,
-		"strokecolor": "9c1b1b",
-		"fillcolor": "ff6060",
-		"latlngarray": [
-			{"lat": -74.008, "lng": -5.995},
-			{"lat": -74.219, "lng": -6.775},
-			{"lat": -74.332, "lng": -7.215},
-			{"lat": -74.412, "lng": -7.511},
-			{"lat": -74.198, "lng": -8.159},
-			{"lat": -74.105, "lng": -8.500},
-			{"lat": -74.240, "lng": -9.060},
-			{"lat": -74.042, "lng": -9.632},
-			{"lat": -73.829, "lng": -9.038},
-			{"lat": -73.579, "lng": -8.346},
-			{"lat": -73.511, "lng": -8.072},
-			{"lat": -73.656, "lng": -7.390},
-			{"lat": -73.826, "lng": -6.588}
-		]
-	},
-{
-		"type": "Territories",
 		"title": "Fifth Avenue",
 		"notes": "Tier 1",
 		"wiki_link": "https://cols-rp.com/threads/fifth-avenue.3935/",
