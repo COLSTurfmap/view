@@ -78,32 +78,6 @@
 	},
 {
 		"type": "Territories",
-		"title": "Fifth Avenue",
-		"notes": "Tier 1",
-		"wiki_link": "https://cols-rp.com/threads/fifth-avenue.3935/",
-		"order": 0,
-		"strokecolor": "a83535",
-		"fillcolor": "ff5757",
-		"latlngarray": [
-			{"lat": -60.564, "lng": -61.043},
-			{"lat": -60.293, "lng": -61.746},
-			{"lat": -60.156, "lng": -62.075},
-			{"lat": -59.733, "lng": -61.482},
-			{"lat": -59.348, "lng": -60.911},
-			{"lat": -58.880, "lng": -60.208},
-			{"lat": -59.101, "lng": -59.505},
-			{"lat": -59.360, "lng": -59.131},
-			{"lat": -59.449, "lng": -58.988},
-			{"lat": -59.766, "lng": -59.384},
-			{"lat": -59.937, "lng": -59.691},
-			{"lat": -59.876, "lng": -59.900},
-			{"lat": -60.063, "lng": -60.219},
-			{"lat": -60.255, "lng": -60.548},
-			{"lat": -60.504, "lng": -60.878}
-		]
-	},
-{
-		"type": "Territories",
 		"title": "W/S 83 Hoover Criminals",
 		"notes": "Tier 1",
 		"wiki_link": "https://cols-rp.com/threads/w-s-83-hoover-criminals.3885/",
