@@ -214,31 +214,6 @@
 	},
 {
 		"type": "Territories",
-		"title": "W/S 74 Hoover",
-		"notes": "Tier 1",
-		"wiki_link": "https://cols-rp.com/threads/w-s-74-hoover.2988/",
-		"order": 0,
-		"strokecolor": "ab6a29",
-		"fillcolor": "f79534",
-		"latlngarray": [
-			{"lat": -75.167, "lng": -12.476},
-			{"lat": -75.644, "lng": -14.091},
-			{"lat": -75.324, "lng": -15.641},
-			{"lat": -75.021, "lng": -17.212},
-			{"lat": -74.740, "lng": -18.464},
-			{"lat": -74.606, "lng": -19.068},
-			{"lat": -74.404, "lng": -18.266},
-			{"lat": -74.551, "lng": -17.684},
-			{"lat": -74.667, "lng": -17.234},
-			{"lat": -74.309, "lng": -15.937},
-			{"lat": -74.545, "lng": -15.047},
-			{"lat": -74.743, "lng": -14.300},
-			{"lat": -74.915, "lng": -13.520},
-			{"lat": -75.035, "lng": -12.971}
-		]
-	},
-{
-		"type": "Territories",
 		"title": "84th Magellan Ave Mafia Crips",
 		"notes": "Tier 1",
 		"wiki_link": "https://cols-rp.com/threads/welcome-to-magellan.454/",
