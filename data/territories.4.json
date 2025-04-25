@@ -247,27 +247,6 @@
 	},
 {
 		"type": "Territories",
-		"title": "18th Street Hoover Locos",
-        	"notes": "Tier 1",
-        	"wiki_link": "https://cols-rp.com/threads/18th-street-hoover-locos.3883/",
-        	"order": 0,
-        	"strokecolor": "b05d31",
-        	"fillcolor": "ff9157",
-		"latlngarray": [
-			{"lat": -78.218, "lng": 15.022},
-			{"lat": -78.178, "lng": 11.869},
-			{"lat": -77.507, "lng": 12.121},
-			{"lat": -77.516, "lng": 13.912},
-			{"lat": -76.769, "lng": 14.262},
-			{"lat": -76.751, "lng": 14.680},
-			{"lat": -76.741, "lng": 15.218},
-			{"lat": -76.721, "lng": 15.691},
-			{"lat": -77.290, "lng": 15.493},
-			{"lat": -77.814, "lng": 15.201}
-		]
-	},
-{
-		"type": "Territories",
 		"title": "84th Magellan Ave Mafia Crips",
 		"notes": "Tier 1",
 		"wiki_link": "https://cols-rp.com/threads/welcome-to-magellan.454/",
