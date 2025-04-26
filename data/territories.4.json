@@ -22,30 +22,6 @@
 	},
 {
 		"type": "Territories",
-		"title": "Rollin 80s Venice Hustler Crips",
-		"notes": "Tier 1",
-		"wiki_link": "https://cols-rp.com/threads/rollin-80s-venice-hustler-crips.4461/",
-		"order": 0,
-		"strokecolor": "3c8596",
-		"fillcolor": "a2edff",
-		"latlngarray": [
-			{"lat": -67.039, "lng": -37.107},
-			{"lat": -67.316, "lng": -36.668},
-			{"lat": -67.993, "lng": -35.679},
-			{"lat": -67.857, "lng": -35.042},
-			{"lat": -67.753, "lng": -34.624},
-			{"lat": -67.536, "lng": -34.185},
-			{"lat": -67.282, "lng": -33.844},
-			{"lat": -67.022, "lng": -33.734},
-			{"lat": -66.824, "lng": -33.877},
-			{"lat": -66.785, "lng": -34.350},
-			{"lat": -66.794, "lng": -35.184},
-			{"lat": -66.807, "lng": -35.921},
-			{"lat": -66.880, "lng": -36.558}
-		]
-	},
-{
-		"type": "Territories",
 		"title": "W/S 83 Hoover Criminals",
 		"notes": "Tier 1",
 		"wiki_link": "https://cols-rp.com/threads/w-s-83-hoover-criminals.3885/",
