@@ -221,22 +221,6 @@
 			{"lat": -66.882, "lng": -49.859}
 		]
 	},
-{
-		"type": "Territories",
-		"title": "84th Magellan Ave Mafia Crips",
-		"notes": "Tier 1",
-		"wiki_link": "https://cols-rp.com/threads/welcome-to-magellan.454/",
-		"order": 0,
-		"strokecolor": "7387f5",
-		"fillcolor": "3c4a96",
-		"latlngarray": [
-			{"lat": -72.503, "lng": -49.771},
-			{"lat": -72.186, "lng": -48.321},
-			{"lat": -73.542, "lng": -44.783},
-			{"lat": -73.954, "lng": -46.486},
-			{"lat": -73.049, "lng": -48.738}
-		]
-	},
 	{
 		"type": "Territories",
 		"title": "Police Station",
