@@ -141,28 +141,6 @@
 	},
 {
 		"type": "Territories",
-		"title": "W/S 670 Menlo Crips",
-		"notes": "Tier 1",
-		"wiki_link": "https://cols-rp.com/threads/w-s-670-menlo-crips.5486/",
-		"order": 0,
-		"strokecolor": "7387f5",
-		"fillcolor": "3c4a96",
-		"latlngarray": [
-			{"lat": -63.215, "lng": -58.973},
-			{"lat": -62.931, "lng": -58.215},
-			{"lat": -62.605, "lng": -57.161},
-			{"lat": -63.021, "lng": -56.534},
-			{"lat": -63.329, "lng": -56.095},
-			{"lat": -63.511, "lng": -56.743},
-			{"lat": -63.861, "lng": -57.325},
-			{"lat": -63.750, "lng": -57.732},
-			{"lat": -63.511, "lng": -58.402},
-			{"lat": -63.353, "lng": -58.809},
-			{"lat": -63.279, "lng": -59.028}
-		]
-	},
-{
-		"type": "Territories",
 		"title": "Rollin 40 Neighborhood Crips",
 		"notes": "Tier 1",
 		"wiki_link": "https://cols-rp.com/threads/rollin-40-neighborhood-crips.4451/",
