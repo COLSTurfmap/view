@@ -208,25 +208,6 @@
 	},
 {
 		"type": "Territories",
-		"title": "Campanella Park Piru",
-		"notes": "Tier 1",
-		"wiki_link": "https://cols-rp.com/threads/campanella-park-piru.4412/page-6#post-19899",
-		"order": 0,
-		"strokecolor": "b42a2a",
-		"fillcolor": "ff4949",
-		"latlngarray": [
-			{"lat": -70.439, "lng": -53.399},
-			{"lat": -71.065, "lng": -52.817},
-			{"lat": -71.324, "lng": -52.498},
-			{"lat": -71.054, "lng": -50.674},
-			{"lat": -70.799, "lng": -51.026},
-			{"lat": -70.486, "lng": -51.367},
-			{"lat": -70.183, "lng": -51.652},
-			{"lat": -70.328, "lng": -52.762}
-		]
-	},
-{
-		"type": "Territories",
 		"title": "111th Center Park Bloods",
 		"notes": "Tier 1",
 		"wiki_link": "https://cols-rp.com/threads/111th-center-park-bloods.4161/",
