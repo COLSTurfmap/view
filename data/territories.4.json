@@ -188,6 +188,31 @@
 	},
 {
 		"type": "Territories",
+		"title": "S/S Longeros 13",
+		"notes": "Tier 1",
+		"wiki_link": "https://cols-rp.com/threads/s-s-longeros-13.5743/page-4#post-22874",
+		"order": 0,
+		"strokecolor": "0c0c0c",
+		"fillcolor": "626262",
+		"latlngarray": [
+			{"lat": -73.520, "lng": -8.169},
+			{"lat": -73.703, "lng": -8.664},
+			{"lat": -73.795, "lng": -8.993},
+			{"lat": -73.662, "lng": -9.444},
+			{"lat": -73.884, "lng": -10.136},
+			{"lat": -74.032, "lng": -9.543},
+			{"lat": -74.231, "lng": -9.312},
+			{"lat": -74.441, "lng": -8.488},
+			{"lat": -74.576, "lng": -7.906},
+			{"lat": -74.323, "lng": -7.049},
+			{"lat": -73.996, "lng": -5.961},
+			{"lat": -73.819, "lng": -6.675},
+			{"lat": -73.659, "lng": -7.378},
+			{"lat": -73.548, "lng": -7.851}
+		]
+	},
+{
+		"type": "Territories",
 		"title": "E/S Mad Swan Bloods",
 		"notes": "Tier 1",
 		"wiki_link": "https://cols-rp.com/threads/e-s-mad-swan-bloods.5085/",
