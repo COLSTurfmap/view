@@ -92,6 +92,26 @@
 	},
 {
 		"type": "Territories",
+		"title": "97 East Coast Crip",
+		"notes": "Tier 1",
+		"wiki_link": "https://cols-rp.com/threads/97-east-coast-crip.5886/",
+		"order": 0,
+		"strokecolor": "2965a7",
+		"fillcolor": "518dd0",
+		"latlngarray": [
+			{"lat": -72.344, "lng": 22.713},
+			{"lat": -72.164, "lng": 24.405},
+			{"lat": -72.001, "lng": 25.767},
+			{"lat": -71.834, "lng": 26.899},
+			{"lat": -72.197, "lng": 27.734},
+			{"lat": -73.082, "lng": 23.844},
+			{"lat": -72.902, "lng": 23.306},
+			{"lat": -72.714, "lng": 22.943},
+			{"lat": -72.381, "lng": 22.504}
+		]
+	},
+{
+		"type": "Territories",
 		"title": "E/S 2UCES TR3YS 8IGHTS",
 		"notes": "Tier 1",
 		"wiki_link": "https://cols-rp.com/threads/e-s-2uces-tr3ys-8ights.5177/",
@@ -125,6 +145,31 @@
 			{"lat": -73.455, "lng": 17.322},
 			{"lat": -73.370, "lng": 18.300},
 			{"lat": -73.148, "lng": 18.948}
+		]
+	},
+{
+		"type": "Territories",
+		"title": "W/S 74 Hoover Criminals",
+		"notes": "Tier 1",
+		"wiki_link": "https://cols-rp.com/threads/w-s-74-hoover-criminals.2988/page-9",
+		"order": 0,
+		"strokecolor": "cb5309",
+		"fillcolor": "ff8337",
+		"latlngarray": [
+			{"lat": -74.368, "lng": -17.931},
+			{"lat": -74.606, "lng": -16.943},
+			{"lat": -74.341, "lng": -15.965},
+			{"lat": -74.592, "lng": -15.009},
+			{"lat": -74.754, "lng": -14.317},
+			{"lat": -74.924, "lng": -13.537},
+			{"lat": -75.094, "lng": -12.713},
+			{"lat": -75.170, "lng": -12.405},
+			{"lat": -75.657, "lng": -14.119},
+			{"lat": -75.394, "lng": -15.437},
+			{"lat": -75.111, "lng": -16.965},
+			{"lat": -74.757, "lng": -18.580},
+			{"lat": -74.629, "lng": -19.140},
+			{"lat": -74.398, "lng": -18.327}
 		]
 	},
 {
@@ -209,6 +254,28 @@
 			{"lat": -73.819, "lng": -6.675},
 			{"lat": -73.659, "lng": -7.378},
 			{"lat": -73.548, "lng": -7.851}
+		]
+	},
+{
+		"type": "Territories",
+		"title": "Black P Stone Nation",
+		"notes": "Tier 1",
+		"wiki_link": "https://cols-rp.com/threads/black-p-stone-nation.5890/",
+		"order": 0,
+		"strokecolor": "b82727",
+		"fillcolor": "ff4b4b",
+		"latlngarray": [
+			{"lat": -76.628, "lng": -7.764},
+			{"lat": -76.157, "lng": -6.116},
+			{"lat": -75.784, "lng": -4.787},
+			{"lat": -76.031, "lng": -3.667},
+			{"lat": -76.252, "lng": -2.777},
+			{"lat": -76.358, "lng": -2.447},
+			{"lat": -76.729, "lng": -3.798},
+			{"lat": -76.877, "lng": -4.304},
+			{"lat": -77.117, "lng": -5.468},
+			{"lat": -76.922, "lng": -6.556},
+			{"lat": -76.709, "lng": -7.523}
 		]
 	},
 {
