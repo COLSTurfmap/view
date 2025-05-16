@@ -92,6 +92,22 @@
 	},
 {
 		"type": "Territories",
+		"title": "Grand Navy",
+		"notes": "Tier 1",
+		"wiki_link": "https://cols-rp.com/threads/grand-navy.3850/",
+		"order": 0,
+		"strokecolor": "2965a7",
+		"fillcolor": "518dd0",
+		"latlngarray": [
+			{"lat": -78.452, "lng": 7.292},
+			{"lat": -78.536, "lng": 11.071},
+			{"lat": -77.496, "lng": 11.576},
+			{"lat": -77.405, "lng": 7.775},
+			{"lat": -77.912, "lng": 7.599}
+		]
+	},
+{
+		"type": "Territories",
 		"title": "97 East Coast Crip",
 		"notes": "Tier 1",
 		"wiki_link": "https://cols-rp.com/threads/97-east-coast-crip.5886/",
