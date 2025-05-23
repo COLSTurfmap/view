@@ -92,22 +92,6 @@
 	},
 {
 		"type": "Territories",
-		"title": "Grand Navy",
-		"notes": "Tier 1",
-		"wiki_link": "https://cols-rp.com/threads/grand-navy.3850/",
-		"order": 0,
-		"strokecolor": "2965a7",
-		"fillcolor": "518dd0",
-		"latlngarray": [
-			{"lat": -78.452, "lng": 7.292},
-			{"lat": -78.536, "lng": 11.071},
-			{"lat": -77.496, "lng": 11.576},
-			{"lat": -77.405, "lng": 7.775},
-			{"lat": -77.912, "lng": 7.599}
-		]
-	},
-{
-		"type": "Territories",
 		"title": "Rollin 70 Menlo Crips",
 		"notes": "Tier 1",
 		"wiki_link": "https://cols-rp.com/threads/vermont-square.700/",
@@ -189,31 +173,6 @@
 			{"lat": -73.455, "lng": 17.322},
 			{"lat": -73.370, "lng": 18.300},
 			{"lat": -73.148, "lng": 18.948}
-		]
-	},
-{
-		"type": "Territories",
-		"title": "W/S 74 Hoover Criminals",
-		"notes": "Tier 1",
-		"wiki_link": "https://cols-rp.com/threads/w-s-74-hoover-criminals.2988/page-9",
-		"order": 0,
-		"strokecolor": "cb5309",
-		"fillcolor": "ff8337",
-		"latlngarray": [
-			{"lat": -74.368, "lng": -17.931},
-			{"lat": -74.606, "lng": -16.943},
-			{"lat": -74.341, "lng": -15.965},
-			{"lat": -74.592, "lng": -15.009},
-			{"lat": -74.754, "lng": -14.317},
-			{"lat": -74.924, "lng": -13.537},
-			{"lat": -75.094, "lng": -12.713},
-			{"lat": -75.170, "lng": -12.405},
-			{"lat": -75.657, "lng": -14.119},
-			{"lat": -75.394, "lng": -15.437},
-			{"lat": -75.111, "lng": -16.965},
-			{"lat": -74.757, "lng": -18.580},
-			{"lat": -74.629, "lng": -19.140},
-			{"lat": -74.398, "lng": -18.327}
 		]
 	},
 {
