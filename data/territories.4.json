@@ -120,26 +120,6 @@
 	},
 {
 		"type": "Territories",
-		"title": "97 East Coast Crip",
-		"notes": "Tier 1",
-		"wiki_link": "https://cols-rp.com/threads/97-east-coast-crip.5886/",
-		"order": 0,
-		"strokecolor": "2965a7",
-		"fillcolor": "518dd0",
-		"latlngarray": [
-			{"lat": -72.344, "lng": 22.713},
-			{"lat": -72.164, "lng": 24.405},
-			{"lat": -72.001, "lng": 25.767},
-			{"lat": -71.834, "lng": 26.899},
-			{"lat": -72.197, "lng": 27.734},
-			{"lat": -73.082, "lng": 23.844},
-			{"lat": -72.902, "lng": 23.306},
-			{"lat": -72.714, "lng": 22.943},
-			{"lat": -72.381, "lng": 22.504}
-		]
-	},
-{
-		"type": "Territories",
 		"title": "E/S 2UCES TR3YS 8IGHTS",
 		"notes": "Tier 1",
 		"wiki_link": "https://cols-rp.com/threads/e-s-2uces-tr3ys-8ights.5177/",
