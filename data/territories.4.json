@@ -187,24 +187,22 @@
 	},
 {
 		"type": "Territories",
-		"title": "Sons of Samoa",
+		"title": "Barrio Los Padrinos 13",
 		"notes": "Tier 1",
-		"wiki_link": "https://cols-rp.com/threads/sons-of-samoa.5497/",
+		"wiki_link": "https://cols-rp.com/threads/barrio-los-padrinos-13.5497/",
 		"order": 0,
 		"strokecolor": "0c0c0c",
 		"fillcolor": "626262",
 		"latlngarray": [
-			{"lat": -56.448, "lng": -60.086},
-			{"lat": -56.786, "lng": -59.471},
-			{"lat": -57.104, "lng": -59.031},
-			{"lat": -57.424, "lng": -58.537},
-			{"lat": -58.520, "lng": -60.064},
-			{"lat": -58.209, "lng": -60.657},
-			{"lat": -57.982, "lng": -61.108},
-			{"lat": -57.678, "lng": -61.371},
-			{"lat": -57.288, "lng": -61.306},
-			{"lat": -56.918, "lng": -61.064},
-			{"lat": -56.569, "lng": -60.569}
+			{"lat": -76.199, "lng": -9.908},
+			{"lat": -75.338, "lng": -6.942},
+			{"lat": -75.711, "lng": -5.041},
+			{"lat": -76.236, "lng": -6.821},
+			{"lat": -76.587, "lng": -8.085},
+			{"lat": -76.469, "lng": -8.788},
+			{"lat": -76.397, "lng": -9.546},
+			{"lat": -76.366, "lng": -9.996},
+			{"lat": -76.254, "lng": -10.051}
 		]
 	},
 {
