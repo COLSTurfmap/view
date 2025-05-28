@@ -128,28 +128,6 @@
 	},
 {
 		"type": "Territories",
-		"title": "512 Hoover Gangster Crip",
-		"notes": "Tier 1",
-		"wiki_link": "https://cols-rp.com/threads/512-hoover-gangster-crips.4451/",
-		"order": 0,
-		"strokecolor": "cb5309",
-		"fillcolor": "ff8337",
-		"latlngarray": [
-			{"lat": -73.522, "lng": -1.237},
-			{"lat": -73.825, "lng": 0.059},
-			{"lat": -73.931, "lng": 0.598},
-			{"lat": -74.046, "lng": 1.213},
-			{"lat": -74.161, "lng": 1.927},
-			{"lat": -74.499, "lng": 1.927},
-			{"lat": -74.770, "lng": 1.894},
-			{"lat": -74.732, "lng": 0.806},
-			{"lat": -75.126, "lng": -0.534},
-			{"lat": -74.340, "lng": -3.797},
-			{"lat": -73.837, "lng": -2.314}
-		]
-	},
-{
-		"type": "Territories",
 		"title": "Bounty Hunter Bloods",
 		"notes": "Tier 1",
 		"wiki_link": "https://cols-rp.com/threads/bounty-hunter-bloods.5543/",
