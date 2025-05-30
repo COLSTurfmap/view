@@ -22,6 +22,27 @@
 	},
 {
 		"type": "Territories",
+		"title": "74 Hoover Criminals",
+		"notes": "Tier 1",
+		"wiki_link": "https://cols-rp.com/threads/w-s-74-hoover-criminals.2988/",
+		"order": 0,
+		"strokecolor": "b05d31",
+		"fillcolor": "ff9157",
+		"latlngarray": [
+			{"lat": -74.340, "lng": -16.071},
+			{"lat": -74.584, "lng": -16.928},
+			{"lat": -74.334, "lng": -18.048},
+			{"lat": -74.476, "lng": -19.037},
+			{"lat": -74.561, "lng": -19.334},
+			{"lat": -74.968, "lng": -17.466},
+			{"lat": -75.661, "lng": -14.258},
+			{"lat": -75.141, "lng": -12.456},
+			{"lat": -74.747, "lng": -14.258},
+			{"lat": -74.455, "lng": -15.445}
+		]
+	},
+{
+		"type": "Territories",
 		"title": "W/S 83 Hoover Criminals",
 		"notes": "Tier 1",
 		"wiki_link": "https://cols-rp.com/threads/w-s-83-hoover-criminals.3885/",
@@ -237,15 +258,19 @@
 		"strokecolor": "b82727",
 		"fillcolor": "ff4b4b",
 		"latlngarray": [
-			{"lat": -55.205, "lng": 10.300},
-			{"lat": -56.549, "lng": 14.222},
-			{"lat": -57.611, "lng": 12.848},
-			{"lat": -56.928, "lng": 10.739},
-			{"lat": -56.318, "lng": 8.970},
-			{"lat": -55.642, "lng": 6.927},
-			{"lat": -55.029, "lng": 7.256},
-			{"lat": -54.266, "lng": 7.850},
-			{"lat": -54.720, "lng": 9.091}
+			{"lat": -59.086, "lng": 18.453},
+			{"lat": -60.070, "lng": 17.881},
+			{"lat": -61.074, "lng": 17.167},
+			{"lat": -61.101, "lng": 16.179},
+			{"lat": -61.175, "lng": 15.322},
+			{"lat": -61.244, "lng": 14.739},
+			{"lat": -60.898, "lng": 14.399},
+			{"lat": -60.533, "lng": 13.871},
+			{"lat": -60.004, "lng": 15.091},
+			{"lat": -59.540, "lng": 16.244},
+			{"lat": -59.142, "lng": 17.112},
+			{"lat": -59.007, "lng": 17.574},
+			{"lat": -58.967, "lng": 17.958}
 		]
 	},
 {
