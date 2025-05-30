@@ -188,6 +188,30 @@
 	},
 {
 		"type": "Territories",
+		"title": "West Side Hu$tlers",
+		"notes": "Tier 1",
+		"wiki_link": "https://cols-rp.com/threads/w-s-hu-tler.6358/",
+		"order": 0,
+		"strokecolor": "45a200",
+		"fillcolor": "73d12e",
+		"latlngarray": [
+			{"lat": -67.009, "lng": -54.272},
+			{"lat": -66.803, "lng": -53.185},
+			{"lat": -66.651, "lng": -52.383},
+			{"lat": -66.287, "lng": -52.591},
+			{"lat": -65.980, "lng": -52.932},
+			{"lat": -65.715, "lng": -53.470},
+			{"lat": -65.565, "lng": -53.800},
+			{"lat": -65.944, "lng": -54.701},
+			{"lat": -66.180, "lng": -55.349},
+			{"lat": -66.287, "lng": -55.657},
+			{"lat": -66.441, "lng": -55.503},
+			{"lat": -66.677, "lng": -55.052},
+			{"lat": -66.880, "lng": -54.668}
+		]
+	},
+{
+		"type": "Territories",
 		"title": "Black P Stone Nation",
 		"notes": "Tier 1",
 		"wiki_link": "https://cols-rp.com/threads/black-p-stone-nation.5890/",
