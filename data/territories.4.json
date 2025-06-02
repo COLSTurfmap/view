@@ -196,6 +196,26 @@
 	},
 {
 		"type": "Territories",
+		"title": "Bounty Hunter Bloods",
+		"notes": "Tier 1",
+		"wiki_link": "https://cols-rp.com/threads/bounty-hunter-bloods.5543/",
+		"order": 0,
+		"strokecolor": "b82727",
+		"fillcolor": "ff4b4b",
+		"latlngarray": [
+			{"lat": -77.394, "lng": -3.736},
+			{"lat": -78.165, "lng": 1.824},
+			{"lat": -76.530, "lng": 2.919},
+			{"lat": -76.497, "lng": 0.931},
+			{"lat": -76.507, "lng": 0.326},
+			{"lat": -76.540, "lng": -0.245},
+			{"lat": -76.627, "lng": -1.102},
+			{"lat": -76.929, "lng": -2.047},
+			{"lat": -77.187, "lng": -3.123}
+		]
+	},
+{
+		"type": "Territories",
 		"title": "Black P Stone Nation",
 		"notes": "Tier 1",
 		"wiki_link": "https://cols-rp.com/threads/black-p-stone-nation.5890/",
