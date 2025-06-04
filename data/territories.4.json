@@ -22,27 +22,6 @@
 	},
 {
 		"type": "Territories",
-		"title": "74 Hoover Criminals",
-		"notes": "Tier 1",
-		"wiki_link": "https://cols-rp.com/threads/w-s-74-hoover-criminals.2988/",
-		"order": 0,
-		"strokecolor": "b05d31",
-		"fillcolor": "ff9157",
-		"latlngarray": [
-			{"lat": -74.340, "lng": -16.071},
-			{"lat": -74.584, "lng": -16.928},
-			{"lat": -74.334, "lng": -18.048},
-			{"lat": -74.476, "lng": -19.037},
-			{"lat": -74.561, "lng": -19.334},
-			{"lat": -74.968, "lng": -17.466},
-			{"lat": -75.661, "lng": -14.258},
-			{"lat": -75.141, "lng": -12.456},
-			{"lat": -74.747, "lng": -14.258},
-			{"lat": -74.455, "lng": -15.445}
-		]
-	},
-{
-		"type": "Territories",
 		"title": "84th Magellan Ave Mafia Crips",
         	"notes": "Tier 1",
         	"wiki_link": "https://cols-rp.com/threads/84th-magellan-ave-mafia-crips.454/",
