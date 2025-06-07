@@ -94,17 +94,27 @@
 	},
 {
 		"type": "Territories",
-		"title": "E/S 2UCES TR3YS 8IGHTS",
+		"title": "W/S Campanella Park Piru",
 		"notes": "Tier 1",
-		"wiki_link": "https://cols-rp.com/threads/e-s-2uces-tr3ys-8ights.5177/",
+		"wiki_link": "https://cols-rp.com/threads/w-s-campanella-park-piru.5177/",
 		"order": 0,
 		"strokecolor": "2965a7",
 		"fillcolor": "518dd0",
 		"latlngarray": [
-			{"lat": -73.003, "lng": 21.636},
-			{"lat": -73.537, "lng": 17.802},
-			{"lat": -73.003, "lng": 17.329},
-			{"lat": -72.511, "lng": 20.702}
+			{"lat": -71.531, "lng": -13.485},
+			{"lat": -71.461, "lng": -13.694},
+			{"lat": -71.461, "lng": -15.023},
+			{"lat": -71.514, "lng": -17.594},
+			{"lat": -71.559, "lng": -18.660},
+			{"lat": -71.927, "lng": -19.759},
+			{"lat": -72.338, "lng": -18.308},
+			{"lat": -72.019, "lng": -17.375},
+			{"lat": -71.917, "lng": -17.067},
+			{"lat": -71.873, "lng": -16.682},
+			{"lat": -71.859, "lng": -16.034},
+			{"lat": -71.856, "lng": -14.606},
+			{"lat": -71.903, "lng": -14.397},
+			{"lat": -71.653, "lng": -13.727}
 		]
 	},
 {
