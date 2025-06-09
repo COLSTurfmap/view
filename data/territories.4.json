@@ -75,25 +75,6 @@
 	},
 {
 		"type": "Territories",
-		"title": "51 Trouble Gangster Crips",
-		"notes": "Tier 1",
-		"wiki_link": "https://cols-rp.com/threads/51-trouble-gangster-crips.1921/",
-		"order": 0,
-		"strokecolor": "2965a7",
-		"fillcolor": "518dd0",
-		"latlngarray": [
-			{"lat": -74.464, "lng": -3.810},
-			{"lat": -74.933, "lng": -1.733},
-			{"lat": -75.560, "lng": -4.128},
-			{"lat": -75.444, "lng": -4.766},
-			{"lat": -75.267, "lng": -5.656},
-			{"lat": -75.140, "lng": -6.238},
-			{"lat": -74.793, "lng": -5.139},
-			{"lat": -74.543, "lng": -4.403}
-		]
-	},
-{
-		"type": "Territories",
 		"title": "W/S Campanella Park Piru",
 		"notes": "Tier 1",
 		"wiki_link": "https://cols-rp.com/threads/w-s-campanella-park-piru.5177/",
