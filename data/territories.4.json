@@ -47,6 +47,25 @@
 	},
 {
 		"type": "Territories",
+		"title": "51 Trouble Gangster Crips",
+		"notes": "Tier 1",
+		"wiki_link": "https://cols-rp.com/threads/51-trouble-gangster-crips.1921/",
+		"order": 0,
+		"strokecolor": "2965a7",
+		"fillcolor": "518dd0",
+		"latlngarray": [
+			{"lat": -74.429, "lng": -3.881},
+			{"lat": -74.709, "lng": -2.672},
+			{"lat": -74.934, "lng": -1.694},
+			{"lat": -75.582, "lng": -4.210},
+			{"lat": -75.367, "lng": -5.232},
+			{"lat": -75.155, "lng": -6.298},
+			{"lat": -74.799, "lng": -5.199},
+			{"lat": -74.549, "lng": -4.463}
+		]
+	},
+{
+		"type": "Territories",
 		"title": "Rollin 70 Menlo Crips",
 		"notes": "Tier 1",
 		"wiki_link": "https://cols-rp.com/threads/vermont-square.700/",
