@@ -185,22 +185,6 @@
 			{"lat": -58.967, "lng": 17.958}
 		]
 	},
-{
-		"type": "Territories",
-		"title": "111th Center Park Bloods",
-		"notes": "Tier 1",
-		"wiki_link": "https://cols-rp.com/threads/111th-center-park-bloods.4161/",
-		"order": 0,
-		"strokecolor": "9e0000",
-		"fillcolor": "ea2525",
-		"latlngarray": [
-			{"lat": -66.490, "lng": -50.365},
-			{"lat": -66.053, "lng": -48.376},
-			{"lat": -66.938, "lng": -46.849},
-			{"lat": -67.419, "lng": -48.980},
-			{"lat": -66.882, "lng": -49.859}
-		]
-	},
 	{
 		"type": "Territories",
 		"title": "Police Station",
