@@ -47,21 +47,6 @@
 	},
 {
 		"type": "Territories",
-		"title": "51 Trouble Gangster Crips",
-		"notes": "Tier 1",
-		"wiki_link": "https://cols-rp.com/threads/51-trouble-gangster-crips.1921/",
-		"order": 0,
-		"strokecolor": "2965a7",
-		"fillcolor": "518dd0",
-		"latlngarray": [
-			{"lat": -68.625, "lng": -47.283},
-			{"lat": -67.584, "lng": -42.230},
-			{"lat": -68.391, "lng": -40.933},
-			{"lat": -69.465, "lng": -45.987}
-		]
-	},
-{
-		"type": "Territories",
 		"title": "Black bandit Crip",
 		"notes": "Tier 1",
 		"wiki_link": "https://cols-rp.com/threads/s-s-black-bandit-crip.700/",
