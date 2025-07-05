@@ -129,25 +129,6 @@
 	},
 {
 		"type": "Territories",
-		"title": "Black bandit Crip",
-		"notes": "Tier 1",
-		"wiki_link": "https://cols-rp.com/threads/s-s-black-bandit-crip.700/",
-		"order": 0,
-		"strokecolor": "2965a7",
-		"fillcolor": "518dd0",
-		"latlngarray": [
-			{"lat": -60.249, "lng": -60.504},
-			{"lat": -59.909, "lng": -59.878},
-			{"lat": -59.964, "lng": -59.691},
-			{"lat": -59.482, "lng": -58.834},
-			{"lat": -58.846, "lng": -60.153},
-			{"lat": -60.145, "lng": -62.097},
-			{"lat": -60.650, "lng": -61.087},
-			{"lat": -60.342, "lng": -60.471}
-		]
-	},
-{
-		"type": "Territories",
 		"title": "Fruit Harvard Ness",
 		"notes": "Tier 1",
 		"wiki_link": "https://cols-rp.com/threads/fruit-harvard-ness.7512/#post-27845",
