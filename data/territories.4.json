@@ -108,27 +108,6 @@
 	},
 {
 		"type": "Territories",
-		"title": "6Pacc East Coast Crips",
-		"notes": "Tier 1",
-		"wiki_link": "https://cols-rp.com/threads/6pacc-east-coast-crips.7147/",
-		"order": 0,
-		"strokecolor": "2965a7",
-		"fillcolor": "518dd0",
-		"latlngarray": [
-			{"lat": -71.800, "lng": 20.340},
-			{"lat": -72.142, "lng": 20.564},
-			{"lat": -72.175, "lng": 17.982},
-			{"lat": -73.850, "lng": 19.351},
-			{"lat": -73.984, "lng": 18.055},
-			{"lat": -73.310, "lng": 17.220},
-			{"lat": -72.791, "lng": 16.824},
-			{"lat": -72.176, "lng": 16.737},
-			{"lat": -71.685, "lng": 16.824},
-			{"lat": -71.685, "lng": 19.329}
-		]
-	},
-{
-		"type": "Territories",
 		"title": "Fruit Harvard Ness",
 		"notes": "Tier 1",
 		"wiki_link": "https://cols-rp.com/threads/fruit-harvard-ness.7512/#post-27845",
