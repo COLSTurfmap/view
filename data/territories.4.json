@@ -47,29 +47,6 @@
 	},
 {
 		"type": "Territories",
-		"title": "107 Groove Gang",
-		"notes": "Tier 1",
-		"wiki_link": "https://cols-rp.com/threads/512-hoover-gangster-crips.8156/",
-		"order": 0,
-		"strokecolor": "a85e11",
-		"fillcolor": "dc760b",
-		"latlngarray": [
-			{"lat": -66.991, "lng": -37.059},
-			{"lat": -67.988, "lng": -35.642},
-			{"lat": -67.860, "lng": -35.026},
-			{"lat": -67.735, "lng": -34.576},
-			{"lat": -67.556, "lng": -34.159},
-			{"lat": -67.303, "lng": -33.884},
-			{"lat": -67.047, "lng": -33.752},
-			{"lat": -66.866, "lng": -33.807},
-			{"lat": -66.819, "lng": -34.433},
-			{"lat": -66.814, "lng": -35.422},
-			{"lat": -66.840, "lng": -36.004},
-			{"lat": -66.905, "lng": -36.554}
-		]
-	},
-{
-		"type": "Territories",
 		"title": "512 Hoover Gangster Crips",
 		"notes": "Tier 1",
 		"wiki_link": "https://cols-rp.com/threads/512-hoover-gangster-crips.8156/",
@@ -156,26 +133,6 @@
 			{"lat": -76.417, "lng": -8.958},
 			{"lat": -76.383, "lng": -9.529},
 			{"lat": -76.355, "lng": -9.958}
-		]
-	},
-{
-		"type": "Territories",
-		"title": "83 Brouge Ave Brims",
-		"notes": "Tier 1",
-		"wiki_link": "https://cols-rp.com/threads/83-brouge-ave-brims.8143/",
-		"order": 0,
-		"strokecolor": "b82727",
-		"fillcolor": "ff4b4b",
-		"latlngarray": [
-			{"lat": -73.534, "lng": -7.958},
-			{"lat": -74.022, "lng": -5.893},
-			{"lat": -74.395, "lng": -7.266},
-			{"lat": -74.729, "lng": -8.376},
-			{"lat": -74.469, "lng": -9.474},
-			{"lat": -74.345, "lng": -9.881},
-			{"lat": -74.214, "lng": -9.189},
-			{"lat": -73.994, "lng": -9.716},
-			{"lat": -73.664, "lng": -8.442}
 		]
 	},
 {
