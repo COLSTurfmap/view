@@ -137,30 +137,6 @@
 	},
 {
 		"type": "Territories",
-		"title": "92 Forum Drive Brims",
-		"notes": "Tier 1",
-		"wiki_link": "https://cols-rp.com/threads/92-forum-drive-brims.7845/",
-		"order": 0,
-		"strokecolor": "b82727",
-		"fillcolor": "ff4b4b",
-		"latlngarray": [
-			{"lat": -71.509, "lng": -17.278},
-			{"lat": -71.509, "lng": -15.564},
-			{"lat": -71.478, "lng": -13.707},
-			{"lat": -71.551, "lng": -13.422},
-			{"lat": -71.885, "lng": -14.454},
-			{"lat": -71.837, "lng": -15.037},
-			{"lat": -71.868, "lng": -16.168},
-			{"lat": -71.892, "lng": -16.871},
-			{"lat": -71.950, "lng": -17.201},
-			{"lat": -72.344, "lng": -18.223},
-			{"lat": -72.008, "lng": -19.596},
-			{"lat": -71.579, "lng": -18.387},
-			{"lat": -71.506, "lng": -17.849}
-		]
-	},
-{
-		"type": "Territories",
 		"title": "Innocence Family Gangster Bloods",
 		"notes": "Tier 1",
 		"wiki_link": "https://cols-rp.com/threads/innocence-family-gangster-bloods.8142/",
