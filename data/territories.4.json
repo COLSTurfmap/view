@@ -22,31 +22,6 @@
 	},
 {
 		"type": "Territories",
-		"title": "84th Magellan Ave Mafia Crips",
-        	"notes": "Tier 1",
-        	"wiki_link": "https://cols-rp.com/threads/84th-magellan-ave-mafia-crips.454/",
-        	"order": 0,
-        	"strokecolor": "208fc6",
-        	"fillcolor": "71d0ff",
-		"latlngarray": [
-			{"lat": -72.597, "lng": -49.540},
-			{"lat": -73.172, "lng": -48.332},
-			{"lat": -73.671, "lng": -47.167},
-			{"lat": -73.943, "lng": -46.519},
-			{"lat": -73.754, "lng": -45.585},
-			{"lat": -73.553, "lng": -45.025},
-			{"lat": -73.346, "lng": -44.486},
-			{"lat": -73.115, "lng": -44.256},
-			{"lat": -72.919, "lng": -44.355},
-			{"lat": -72.760, "lng": -44.717},
-			{"lat": -72.501, "lng": -45.343},
-			{"lat": -72.188, "lng": -46.090},
-			{"lat": -71.965, "lng": -46.585},
-			{"lat": -72.359, "lng": -48.518}
-		]
-	},
-{
-		"type": "Territories",
 		"title": "512 Hoover Gangster Crips",
 		"notes": "Tier 1",
 		"wiki_link": "https://cols-rp.com/threads/512-hoover-gangster-crips.8156/",
@@ -72,27 +47,6 @@
 			{"lat": -74.163, "lng": -1.762},
 			{"lat": -73.988, "lng": -1.388},
 			{"lat": -73.839, "lng": -0.960}
-		]
-	},
-{
-		"type": "Territories",
-		"title": "Grove Street Blocc Ballas",
-		"notes": "Tier 1",
-		"wiki_link": "https://cols-rp.com/threads/grove-street-blocc-ballas.7556/",
-		"order": 0,
-		"strokecolor": "7f0a7d",
-		"fillcolor": "a53fa3",
-		"latlngarray": [
-			{"lat": -75.653, "lng": -14.420},
-			{"lat": -75.109, "lng": -12.475},
-			{"lat": -74.346, "lng": -15.881},
-			{"lat": -74.610, "lng": -16.826},
-			{"lat": -74.346, "lng": -18.001},
-			{"lat": -74.596, "lng": -19.067},
-			{"lat": -74.813, "lng": -18.309},
-			{"lat": -75.067, "lng": -17.101},
-			{"lat": -75.359, "lng": -15.848},
-			{"lat": -75.475, "lng": -15.134}
 		]
 	},
 {
