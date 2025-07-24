@@ -67,6 +67,25 @@
 	},
 {
 		"type": "Territories",
+		"title": "Grove Street Blocc Ballas",
+		"notes": "Tier 1",
+		"wiki_link": "https://cols-rp.com/threads/grove-street-blocc-ballas.7556/",
+		"order": 0,
+		"strokecolor": "5a0693",
+		"fillcolor": "a753df",
+		"latlngarray": [
+			{"lat": -74.606, "lng": -19.031},
+			{"lat": -75.649, "lng": -14.406},
+			{"lat": -75.142, "lng": -12.505},
+			{"lat": -74.606, "lng": -14.933},
+			{"lat": -74.335, "lng": -15.889},
+			{"lat": -74.597, "lng": -16.834},
+			{"lat": -74.326, "lng": -18.042},
+			{"lat": -74.500, "lng": -18.790}
+		]
+	},
+{
+		"type": "Territories",
 		"title": "S/S Diablos 13",
 		"notes": "Tier 1",
 		"wiki_link": "https://cols-rp.com/threads/s-s-diablos-13.7146/",
